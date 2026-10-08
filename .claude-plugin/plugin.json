@@ -1,0 +1,10 @@
+{
+  "name": "content-rewards-prospect-intel",
+  "displayName": "Content Rewards Prospect Intel",
+  "version": "0.2.5",
+  "description": "Cited pre-call prospect dossier: identity, company and offer, why-now, buying committee, organic audit, account constellation, paid vs organic, content supply, Content Rewards case and agency matches, objections, discovery questions, money math and a one-screen cheat sheet.",
+  "author": { "name": "Micah Cabaniss" },
+  "license": "MIT",
+  "keywords": ["sales", "prospecting", "research", "content-rewards", "clipping", "ugc", "organic"],
+  "skills": "./skills"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "cr-prospect-intel",
+  "owner": { "name": "Micah Cabaniss" },
+  "metadata": {
+    "description": "Cited pre-call prospect dossiers for Content Rewards sales: identity, company, organic audit, account constellation, CR case and agency matches, money math.",
+    "version": "0.2.5"
+  },
+  "plugins": [
+    {
+      "name": "content-rewards-prospect-intel",
+      "source": "./",
+      "description": "Cited pre-call dossier from a name and work email. Zero API keys required.",
+      "category": "sales",
+      "keywords": ["sales", "prospecting", "account-research", "pre-call", "content-rewards", "clipping", "ugc"]
+    }
+  ]
+}

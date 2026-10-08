@@ -1,0 +1,8 @@
+{
+  "name": "content-rewards-prospect-intel",
+  "description": "Cited pre-call prospect dossier from a name and work email. Zero API keys required.",
+  "version": "0.2.5",
+  "author": { "name": "Micah Cabaniss" },
+  "license": "MIT",
+  "skills": "./skills/"
+}
