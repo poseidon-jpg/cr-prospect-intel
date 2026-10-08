@@ -12,7 +12,7 @@
 **Best CR analogue:** their own campaign: Clip Farm, $0.50/1K, ~$0.59 effective, ~34M views
 **Agency fit:** Clip Farm already runs it. Expand through them, not around them.
 
-**Open with:** "Your clips have pulled about 34 million views on $20K, which is cheaper reach than almost anything you can buy. But I found clip pages telling people to 'Invest Now!' in BXBL. Now that you're public, I'd fix that before we scale anything."
+Open with: "Your clips have pulled about 34 million views on $20K. Some accounts with your name are using 'Invest Now!' about the stock. Do you know who's making those posts?"
 **Ask early:**
 1. Who approves clip content now: marketing, IR or counsel?
 2. You've spent 23% of the $85K. Is it pacing on plan or stalled?
