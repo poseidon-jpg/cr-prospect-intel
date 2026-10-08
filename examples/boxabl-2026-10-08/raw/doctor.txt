@@ -1,0 +1,22 @@
+Python 3.13.16  |  mode: SCRIPTS  (9/9 endpoints reachable)
+  WORKING  dns (dns.google)       
+  WORKING  tiktok oembed          
+  WORKING  tiktok embed card      
+  WORKING  youtube                
+  WORKING  content rewards        
+  WORKING  greenhouse ats         
+  WORKING  itunes podcasts        
+  WORKING  google news rss        
+  WORKING  rdap                   
+  FOUND    yt-dlp
+  OPTIONAL deno
+  FOUND    node
+  OPTIONAL maigret
+  OPTIONAL dig
+  OPTIONAL SCRAPECREATORS_API_KEY   TikTok/IG/YouTube/X/LinkedIn public data (100 free credits)
+  OPTIONAL HUNTER_API_KEY           person + company enrichment, email verify (50 free/mo)
+  OPTIONAL PDL_API_KEY              identity resolution with likelihood score (100 free/mo)
+  OPTIONAL YOUTUBE_API_KEY          full channel inventory (10k units/day free)
+  OPTIONAL XAI_API_KEY              live X search with citations (paid per result)
+  OPTIONAL SERPAPI_API_KEY          Google Ads Transparency lookups (250 free/mo)
+{"mode": "SCRIPTS", "reachable": {"dns (dns.google)": "OK", "tiktok oembed": "OK", "tiktok embed card": "OK", "youtube": "OK", "content rewards": "OK", "greenhouse ats": "OK", "itunes podcasts": "OK", "google news rss": "OK", "rdap": "OK"}, "tools": {"yt-dlp": true, "deno": false, "node": true, "maigret": false, "dig": false}, "keys": {"SCRAPECREATORS_API_KEY": false, "HUNTER_API_KEY": false, "PDL_API_KEY": false, "YOUTUBE_API_KEY": false, "XAI_API_KEY": false, "SERPAPI_API_KEY": false}}

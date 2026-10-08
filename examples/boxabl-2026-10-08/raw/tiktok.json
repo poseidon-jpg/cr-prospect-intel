@@ -1,0 +1,118 @@
+[
+  {
+    "platform": "tiktok",
+    "handle": "boxabl",
+    "source": "https://www.tiktok.com/embed/@boxabl",
+    "exists": true,
+    "nickname": "BOXABL",
+    "verified": false,
+    "private": false,
+    "bio": "🏠Housing meets mass production 🏭 \n\nBOXABL is now trading on the stock market \nNasdaq ticker $BXBL \nRead disclaimers boxabl.com/ir",
+    "followers": 114400,
+    "following": 293,
+    "total_likes": 636300,
+    "recent_videos_sampled": 13,
+    "recent_views_median": 3164,
+    "recent_views_max": 3200000,
+    "recent_views_min": 1445,
+    "last_post_date": "2026-08-24",
+    "posts_in_sample_last_30d": 0,
+    "median_views_last_30d": null,
+    "sample_span_days": 2085,
+    "approx_posts_per_week": 0.0,
+    "recent_videos": [
+      {
+        "id": "7052108180268059905",
+        "date": "2022-01-12",
+        "views": 68900,
+        "caption": "A foldable house?! ONLY $50,000!? We plan to help billions of people! #massproduction #housetour #minimalist #casita #affordable",
+        "url": "https://www.tiktok.com/@boxabl/video/7052108180268059905"
+      },
+      {
+        "id": "7030470638716472578",
+        "date": "2021-11-14",
+        "views": 52900,
+        "caption": "Everyone deserves an affordable #home",
+        "url": "https://www.tiktok.com/@boxabl/video/7030470638716472578"
+      },
+      {
+        "id": "6903711420026735874",
+        "date": "2020-12-08",
+        "views": 3200000,
+        "caption": "Housing meets mass production... #tinyhouse #factory #engineering #architecture #building #housing #homeless #construction",
+        "url": "https://www.tiktok.com/@boxabl/video/6903711420026735874"
+      },
+      {
+        "id": "7677735976105430293",
+        "date": "2026-08-24",
+        "views": 2517,
+        "caption": "🤣",
+        "url": "https://www.tiktok.com/@boxabl/video/7677735976105430293"
+      },
+      {
+        "id": "7674050137399889172",
+        "date": "2026-08-15",
+        "views": 2187,
+        "caption": "Would you live in this foldable home? #adu ",
+        "url": "https://www.tiktok.com/@boxabl/video/7674050137399889172"
+      },
+      {
+        "id": "7672932985221549333",
+        "date": "2026-08-12",
+        "views": 1786,
+        "caption": "Delivering a two bedroom Casita in California #fyp #casita #boxabl ",
+        "url": "https://www.tiktok.com/@boxabl/video/7672932985221549333"
+      },
+      {
+        "id": "7672563465894071573",
+        "date": "2026-08-11",
+        "views": 1577,
+        "caption": "BOXABL Casita delivered to Sacramento! #fyp #casita ",
+        "url": "https://www.tiktok.com/@boxabl/video/7672563465894071573"
+      },
+      {
+        "id": "7670704222484188437",
+        "date": "2026-08-06",
+        "views": 1445,
+        "caption": "A home delivered to you, fast.",
+        "url": "https://www.tiktok.com/@boxabl/video/7670704222484188437"
+      },
+      {
+        "id": "7668755545087692052",
+        "date": "2026-07-31",
+        "views": 1835,
+        "caption": "Installing a two bedroom Casita in one day 📦➡️🏠",
+        "url": "https://www.tiktok.com/@boxabl/video/7668755545087692052"
+      },
+      {
+        "id": "7657353520177351957",
+        "date": "2026-07-01",
+        "views": 4587,
+        "caption": "A home delivered to you. Unpacked in one day. #fyp",
+        "url": "https://www.tiktok.com/@boxabl/video/7657353520177351957"
+      },
+      {
+        "id": "7656975322646056212",
+        "date": "2026-06-30",
+        "views": 3271,
+        "caption": "Rate 1-10 #fyp #casita ",
+        "url": "https://www.tiktok.com/@boxabl/video/7656975322646056212"
+      },
+      {
+        "id": "7650674156341644564",
+        "date": "2026-06-13",
+        "views": 158800,
+        "caption": "Would you live in a BOXABL?",
+        "url": "https://www.tiktok.com/@boxabl/video/7650674156341644564"
+      },
+      {
+        "id": "7650288005097295125",
+        "date": "2026-06-11",
+        "views": 3164,
+        "caption": "Would you live in a BOXABL Casita? ",
+        "url": "https://www.tiktok.com/@boxabl/video/7650288005097295125"
+      }
+    ],
+    "caveats": "Embed shows the latest ~13 videos (pinned ones included, which skew max). Dates are decoded from the video ID (id >> 32 = Unix seconds, accurate to the day). Not full history."
+  }
+]

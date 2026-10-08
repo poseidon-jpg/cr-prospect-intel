@@ -1,0 +1,301 @@
+{
+  "brand": "Oura",
+  "official_handle": "ouraring",
+  "platform": "tiktok",
+  "variants_checked": 40,
+  "existing_accounts": 17,
+  "unreachable_checks": 0,
+  "accounts": [
+    {
+      "handle": "ouraring",
+      "nickname": "ouraring",
+      "verified": true,
+      "bio": "Health is a beautiful thing.",
+      "followers": 155300,
+      "total_likes": 1400000,
+      "recent_views_median": 12700.0,
+      "source": "https://www.tiktok.com/embed/@ouraring",
+      "affiliation": {
+        "score": 100,
+        "label": "CONFIRMED OFFICIAL",
+        "signals": [
+          "is the official handle"
+        ]
+      }
+    },
+    {
+      "handle": "ourahq",
+      "nickname": "OuraOfficial",
+      "verified": false,
+      "bio": "Artist💫 | Out Da Cut🏠 07/04\nBlk 🖤\nNow streaming on all plats",
+      "followers": 8,
+      "total_likes": 16,
+      "recent_views_median": 304,
+      "source": "https://www.tiktok.com/embed/@ourahq",
+      "affiliation": {
+        "score": 40,
+        "label": "POSSIBLY AFFILIATED",
+        "signals": [
+          "handle contains 'oura'",
+          "1/1 recent captions mention brand"
+        ]
+      }
+    },
+    {
+      "handle": "ouraclips",
+      "nickname": "OuraClips",
+      "verified": false,
+      "bio": "Clips of Markuss Hussle From Oura Consulting",
+      "followers": 6,
+      "total_likes": 443,
+      "recent_views_median": 340.0,
+      "source": "https://www.tiktok.com/embed/@ouraclips",
+      "affiliation": {
+        "score": 30,
+        "label": "NAME MATCH ONLY",
+        "signals": [
+          "handle contains 'oura'",
+          "bio mentions brand name"
+        ]
+      }
+    },
+    {
+      "handle": "ouradaily",
+      "nickname": "cute accessories",
+      "verified": false,
+      "bio": "🌷 Daily doses of @Oura Accessories ✨",
+      "followers": 10600,
+      "total_likes": 1200000,
+      "recent_views_median": 663,
+      "source": "https://www.tiktok.com/embed/@ouradaily",
+      "affiliation": {
+        "score": 30,
+        "label": "NAME MATCH ONLY",
+        "signals": [
+          "handle contains 'oura'",
+          "bio mentions brand name"
+        ]
+      }
+    },
+    {
+      "handle": "getoura",
+      "nickname": "...",
+      "verified": false,
+      "bio": "ıg; getouraa",
+      "followers": 2,
+      "total_likes": 0,
+      "recent_views_median": null,
+      "source": "https://www.tiktok.com/embed/@getoura",
+      "affiliation": {
+        "score": 30,
+        "label": "NAME MATCH ONLY",
+        "signals": [
+          "handle contains 'oura'",
+          "bio mentions brand name"
+        ]
+      }
+    },
+    {
+      "handle": "oura",
+      "nickname": "oura",
+      "verified": false,
+      "bio": "",
+      "followers": 24,
+      "total_likes": 0,
+      "recent_views_median": null,
+      "source": "https://www.tiktok.com/embed/@oura",
+      "affiliation": {
+        "score": 15,
+        "label": "NAME MATCH ONLY",
+        "signals": [
+          "handle contains 'oura'",
+          "display name copies brand exactly but unverified: fan page OR impersonation, check manually"
+        ]
+      }
+    },
+    {
+      "handle": "ouraclipz",
+      "nickname": "ouraclipz",
+      "verified": false,
+      "bio": "",
+      "followers": 0,
+      "total_likes": 0,
+      "recent_views_median": null,
+      "source": "https://www.tiktok.com/embed/@ouraclipz",
+      "affiliation": {
+        "score": 15,
+        "label": "NAME MATCH ONLY",
+        "signals": [
+          "handle contains 'oura'"
+        ]
+      }
+    },
+    {
+      "handle": "ouraedits",
+      "nickname": "🕺",
+      "verified": false,
+      "bio": "",
+      "followers": 0,
+      "total_likes": 81,
+      "recent_views_median": 450.0,
+      "source": "https://www.tiktok.com/embed/@ouraedits",
+      "affiliation": {
+        "score": 15,
+        "label": "NAME MATCH ONLY",
+        "signals": [
+          "handle contains 'oura'"
+        ]
+      }
+    },
+    {
+      "handle": "ouratv",
+      "nickname": "OURA TV",
+      "verified": false,
+      "bio": "",
+      "followers": 1,
+      "total_likes": 0,
+      "recent_views_median": null,
+      "source": "https://www.tiktok.com/embed/@ouratv",
+      "affiliation": {
+        "score": 15,
+        "label": "NAME MATCH ONLY",
+        "signals": [
+          "handle contains 'oura'"
+        ]
+      }
+    },
+    {
+      "handle": "ourafans",
+      "nickname": "Evos Roar",
+      "verified": false,
+      "bio": "",
+      "followers": 19,
+      "total_likes": 0,
+      "recent_views_median": null,
+      "source": "https://www.tiktok.com/embed/@ourafans",
+      "affiliation": {
+        "score": 15,
+        "label": "NAME MATCH ONLY",
+        "signals": [
+          "handle contains 'oura'"
+        ]
+      }
+    },
+    {
+      "handle": "ouraofficial",
+      "nickname": "oura.official",
+      "verified": false,
+      "bio": "Simply elegant | Pret-a-porter",
+      "followers": 2,
+      "total_likes": 0,
+      "recent_views_median": null,
+      "source": "https://www.tiktok.com/embed/@ouraofficial",
+      "affiliation": {
+        "score": 15,
+        "label": "NAME MATCH ONLY",
+        "signals": [
+          "handle contains 'oura'",
+          "display name copies brand exactly but unverified: fan page OR impersonation, check manually"
+        ]
+      }
+    },
+    {
+      "handle": "ouraworld",
+      "nickname": "ouraworld",
+      "verified": false,
+      "bio": "",
+      "followers": 0,
+      "total_likes": 0,
+      "recent_views_median": null,
+      "source": "https://www.tiktok.com/embed/@ouraworld",
+      "affiliation": {
+        "score": 15,
+        "label": "NAME MATCH ONLY",
+        "signals": [
+          "handle contains 'oura'"
+        ]
+      }
+    },
+    {
+      "handle": "ouraarchive",
+      "nickname": "ouraarchive",
+      "verified": false,
+      "bio": "moot us up!!!",
+      "followers": 3,
+      "total_likes": 20,
+      "recent_views_median": null,
+      "source": "https://www.tiktok.com/embed/@ouraarchive",
+      "affiliation": {
+        "score": 15,
+        "label": "NAME MATCH ONLY",
+        "signals": [
+          "handle contains 'oura'"
+        ]
+      }
+    },
+    {
+      "handle": "ouranation",
+      "nickname": "Nel",
+      "verified": false,
+      "bio": "2+6",
+      "followers": 339,
+      "total_likes": 2921,
+      "recent_views_median": 539.0,
+      "source": "https://www.tiktok.com/embed/@ouranation",
+      "affiliation": {
+        "score": 15,
+        "label": "NAME MATCH ONLY",
+        "signals": [
+          "handle contains 'oura'"
+        ]
+      }
+    },
+    {
+      "handle": "ouraapp",
+      "nickname": "oura",
+      "verified": false,
+      "bio": "Your digital tarot deck whenever, wherever.",
+      "followers": 0,
+      "total_likes": 0,
+      "recent_views_median": null,
+      "source": "https://www.tiktok.com/embed/@ouraapp",
+      "affiliation": {
+        "score": 15,
+        "label": "NAME MATCH ONLY",
+        "signals": [
+          "handle contains 'oura'",
+          "display name copies brand exactly but unverified: fan page OR impersonation, check manually"
+        ]
+      }
+    },
+    {
+      "handle": "itsoura",
+      "nickname": "just.a",
+      "verified": false,
+      "bio": "",
+      "followers": 714,
+      "total_likes": 8085,
+      "recent_views_median": 1768.0,
+      "source": "https://www.tiktok.com/embed/@itsoura",
+      "affiliation": {
+        "score": 15,
+        "label": "NAME MATCH ONLY",
+        "signals": [
+          "handle contains 'oura'"
+        ]
+      }
+    }
+  ],
+  "exists_but_card_unreachable": [
+    "officialoura"
+  ],
+  "summary": {
+    "likely_affiliated": [],
+    "possibly_affiliated": [
+      "ourahq"
+    ],
+    "followers_in_affiliated_cluster": 8
+  },
+  "method": "Handle variants -> official oEmbed existence -> official embed card (bio, captions) -> rubric. Variant generation misses accounts with unrelated names (e.g. theme pages): add them with --extra after searching TikTok/Google for the brand's @handle in bios and captions.",
+  "interpretation": "Affiliation is an evidence score, never a fact about who runs an account."
+}

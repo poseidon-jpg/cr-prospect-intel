@@ -1,0 +1,37 @@
+{
+  "query": "Boxabl",
+  "match": {
+    "qid": "Q115704993",
+    "source": "https://www.wikidata.org/wiki/Q115704993",
+    "label": "Boxabl",
+    "description": "American construction company",
+    "headquarters_qid": [
+      "Q23768"
+    ],
+    "industry_qids": [
+      "Q3875186"
+    ],
+    "headquarters": [
+      "Las Vegas"
+    ],
+    "industry": [
+      "construction"
+    ],
+    "profile_urls": [],
+    "note": "Community-edited. Corroborate each handle on the site footer or the profile itself before citing.",
+    "match_confidence": "LOW: first search hit, website not matched"
+  },
+  "candidates": [
+    {
+      "qid": "Q115704993",
+      "label": "Boxabl",
+      "description": "American construction company"
+    },
+    {
+      "qid": "Q121424257",
+      "label": "Boxabl Casita移动住宅",
+      "description": "scholarly article in Art & Design, no. 7, 2021"
+    }
+  ],
+  "source": "https://www.wikidata.org/w/api.php?action=wbsearchentities&language=en&type=item&format=json&limit=5&search=Boxabl"
+}

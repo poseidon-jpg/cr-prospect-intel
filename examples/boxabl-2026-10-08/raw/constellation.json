@@ -1,0 +1,233 @@
+{
+  "brand": "Boxabl",
+  "official_handle": "boxabl",
+  "platform": "tiktok",
+  "variants_checked": 25,
+  "existing_accounts": 12,
+  "unreachable_checks": 0,
+  "accounts": [
+    {
+      "handle": "boxabl",
+      "nickname": "BOXABL",
+      "verified": false,
+      "bio": "🏠Housing meets mass production 🏭 \n\nBOXABL is now trading on the stock market \nNasdaq ticker $BXBL \nRead disclaimers boxabl.com/ir",
+      "followers": 114400,
+      "total_likes": 636300,
+      "recent_views_median": 3164,
+      "source": "https://www.tiktok.com/embed/@boxabl",
+      "affiliation": {
+        "score": 100,
+        "label": "CONFIRMED OFFICIAL",
+        "signals": [
+          "is the official handle"
+        ]
+      }
+    },
+    {
+      "handle": "boxablclips",
+      "nickname": "boxablclips",
+      "verified": false,
+      "bio": "Boxabl is the FUTURE of HOUSING! Invest Now!",
+      "followers": 106,
+      "total_likes": 6360,
+      "recent_views_median": 99.0,
+      "source": "https://www.tiktok.com/embed/@boxablclips",
+      "affiliation": {
+        "score": 75,
+        "label": "LIKELY AFFILIATED",
+        "signals": [
+          "handle contains 'boxabl'",
+          "bio mentions brand name",
+          "10/10 recent captions mention brand",
+          "captions overlap with another candidate (Jaccard 0.28) = coordinated template"
+        ]
+      }
+    },
+    {
+      "handle": "boxablnews",
+      "nickname": "BoxablNews",
+      "verified": false,
+      "bio": "Latest News On Boxabl!",
+      "followers": 54,
+      "total_likes": 525,
+      "recent_views_median": 45.0,
+      "source": "https://www.tiktok.com/embed/@boxablnews",
+      "affiliation": {
+        "score": 75,
+        "label": "LIKELY AFFILIATED",
+        "signals": [
+          "handle contains 'boxabl'",
+          "bio mentions brand name",
+          "10/10 recent captions mention brand",
+          "captions overlap with another candidate (Jaccard 1.00) = coordinated template"
+        ]
+      }
+    },
+    {
+      "handle": "boxablmoments",
+      "nickname": "BOXABL Moments",
+      "verified": false,
+      "bio": "best moments from the company @BOXABL",
+      "followers": 1,
+      "total_likes": 95,
+      "recent_views_median": 1003,
+      "source": "https://www.tiktok.com/embed/@boxablmoments",
+      "affiliation": {
+        "score": 70,
+        "label": "LIKELY AFFILIATED",
+        "signals": [
+          "handle contains 'boxabl'",
+          "bio tags the official account or brand domain (CR briefs often REQUIRE this)",
+          "3/3 recent captions mention brand"
+        ]
+      }
+    },
+    {
+      "handle": "boxablfans",
+      "nickname": "boxablfans",
+      "verified": false,
+      "bio": "https://www.boxabl.com/order?ref=mzm4zwq",
+      "followers": 0,
+      "total_likes": 4,
+      "recent_views_median": 77.5,
+      "source": "https://www.tiktok.com/embed/@boxablfans",
+      "affiliation": {
+        "score": 70,
+        "label": "LIKELY AFFILIATED",
+        "signals": [
+          "handle contains 'boxabl'",
+          "bio tags the official account or brand domain (CR briefs often REQUIRE this)",
+          "2/2 recent captions mention brand"
+        ]
+      }
+    },
+    {
+      "handle": "boxabldaily",
+      "nickname": "boxabldaily",
+      "verified": false,
+      "bio": "The future of housing",
+      "followers": 10,
+      "total_likes": 764,
+      "recent_views_median": 75.0,
+      "source": "https://www.tiktok.com/embed/@boxabldaily",
+      "affiliation": {
+        "score": 60,
+        "label": "POSSIBLY AFFILIATED",
+        "signals": [
+          "handle contains 'boxabl'",
+          "10/10 recent captions mention brand",
+          "captions overlap with another candidate (Jaccard 1.00) = coordinated template"
+        ]
+      }
+    },
+    {
+      "handle": "boxablfan",
+      "nickname": "Boxabl Tiny Homes",
+      "verified": false,
+      "bio": "Fan of BOXABL Tiny Homes\n\n\n📦➡️🏠😎",
+      "followers": 522,
+      "total_likes": 4034,
+      "recent_views_median": 1071,
+      "source": "https://www.tiktok.com/embed/@boxablfan",
+      "affiliation": {
+        "score": 42,
+        "label": "POSSIBLY AFFILIATED",
+        "signals": [
+          "handle contains 'boxabl'",
+          "bio mentions brand name",
+          "5/13 recent captions mention brand"
+        ]
+      }
+    },
+    {
+      "handle": "boxablhighlights",
+      "nickname": "boxabl records",
+      "verified": false,
+      "bio": "",
+      "followers": 9,
+      "total_likes": 116,
+      "recent_views_median": 504,
+      "source": "https://www.tiktok.com/embed/@boxablhighlights",
+      "affiliation": {
+        "score": 40,
+        "label": "POSSIBLY AFFILIATED",
+        "signals": [
+          "handle contains 'boxabl'",
+          "3/3 recent captions mention brand"
+        ]
+      }
+    },
+    {
+      "handle": "boxablclip",
+      "nickname": "Boxabl Clip 🏠",
+      "verified": false,
+      "bio": "The best Boxabl home videos\n🏠 Affordable modular homes",
+      "followers": 0,
+      "total_likes": 0,
+      "recent_views_median": null,
+      "source": "https://www.tiktok.com/embed/@boxablclip",
+      "affiliation": {
+        "score": 30,
+        "label": "NAME MATCH ONLY",
+        "signals": [
+          "handle contains 'boxabl'",
+          "bio mentions brand name"
+        ]
+      }
+    },
+    {
+      "handle": "boxablarchive",
+      "nickname": "BOXABLarchive",
+      "verified": false,
+      "bio": "🏠 BOXABL clips & homes\n🎥 Best moments, tours & transformations",
+      "followers": 2,
+      "total_likes": 0,
+      "recent_views_median": null,
+      "source": "https://www.tiktok.com/embed/@boxablarchive",
+      "affiliation": {
+        "score": 30,
+        "label": "NAME MATCH ONLY",
+        "signals": [
+          "handle contains 'boxabl'",
+          "bio mentions brand name"
+        ]
+      }
+    },
+    {
+      "handle": "boxablworld",
+      "nickname": "boxablworld",
+      "verified": false,
+      "bio": "",
+      "followers": 0,
+      "total_likes": 0,
+      "recent_views_median": null,
+      "source": "https://www.tiktok.com/embed/@boxablworld",
+      "affiliation": {
+        "score": 15,
+        "label": "NAME MATCH ONLY",
+        "signals": [
+          "handle contains 'boxabl'"
+        ]
+      }
+    }
+  ],
+  "exists_but_card_unreachable": [
+    "boxablclipz"
+  ],
+  "summary": {
+    "likely_affiliated": [
+      "boxablclips",
+      "boxablnews",
+      "boxablmoments",
+      "boxablfans"
+    ],
+    "possibly_affiliated": [
+      "boxabldaily",
+      "boxablfan",
+      "boxablhighlights"
+    ],
+    "followers_in_affiliated_cluster": 702
+  },
+  "method": "Handle variants -> official oEmbed existence -> official embed card (bio, captions) -> rubric. Variant generation misses accounts with unrelated names (e.g. theme pages): add them with --extra after searching TikTok/Google for the brand's @handle in bios and captions.",
+  "interpretation": "Affiliation is an evidence score, never a fact about who runs an account."
+}

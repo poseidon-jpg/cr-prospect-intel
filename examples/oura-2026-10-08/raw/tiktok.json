@@ -1,0 +1,97 @@
+[
+  {
+    "platform": "tiktok",
+    "handle": "ouraring",
+    "source": "https://www.tiktok.com/embed/@ouraring",
+    "exists": true,
+    "nickname": "ouraring",
+    "verified": true,
+    "private": false,
+    "bio": "Health is a beautiful thing.",
+    "followers": 155300,
+    "following": 154,
+    "total_likes": 1400000,
+    "recent_videos_sampled": 10,
+    "recent_views_median": 12700.0,
+    "recent_views_max": 38700,
+    "recent_views_min": 293,
+    "last_post_date": "2026-10-08",
+    "posts_in_sample_last_30d": 4,
+    "median_views_last_30d": 14010.5,
+    "sample_span_days": 40,
+    "approx_posts_per_week": 1.8,
+    "recent_videos": [
+      {
+        "id": "7694291738529221918",
+        "date": "2026-10-08",
+        "views": 293,
+        "caption": "Wear your best life. ",
+        "url": "https://www.tiktok.com/@ouraring/video/7694291738529221918"
+      },
+      {
+        "id": "7693603778276248862",
+        "date": "2026-10-06",
+        "views": 7121,
+        "caption": "don’t try this at home #horrormovie ",
+        "url": "https://www.tiktok.com/@ouraring/video/7693603778276248862"
+      },
+      {
+        "id": "7693308957506440479",
+        "date": "2026-10-05",
+        "views": 22300,
+        "caption": "Track sleep, stress, activity, and more with Oura Ring.",
+        "url": "https://www.tiktok.com/@ouraring/video/7693308957506440479"
+      },
+      {
+        "id": "7683268186090851597",
+        "date": "2026-09-08",
+        "views": 20900,
+        "caption": "\"Come on, Coco, work!\" @annayawashere brought the HYPE for @cocogauff at #USOpen practice. 📣",
+        "url": "https://www.tiktok.com/@ouraring/video/7683268186090851597"
+      },
+      {
+        "id": "7681679716813655310",
+        "date": "2026-09-04",
+        "views": 14600,
+        "caption": "How many blood pressure readings do you get a year? One? Maybe two? We’ve got you covered the other 363 days of the year. Oura looks for meaningful shifts in yo",
+        "url": "https://www.tiktok.com/@ouraring/video/7681679716813655310"
+      },
+      {
+        "id": "7680937490819157261",
+        "date": "2026-09-02",
+        "views": 14500,
+        "caption": "“Oh, that’s probably nothing.” We’ve all heard it before. And although some of us ignore the signs, Oura doesn’t. Keep an eye on all of your ‘nothings’ with Hea",
+        "url": "https://www.tiktok.com/@ouraring/video/7680937490819157261"
+      },
+      {
+        "id": "7680659396430482702",
+        "date": "2026-09-01",
+        "views": 10900,
+        "caption": "Tonight’s lesson: Readiness. Coco is ready to take the competition to school under the lights at Flushing Meadows.",
+        "url": "https://www.tiktok.com/@ouraring/video/7680659396430482702"
+      },
+      {
+        "id": "7680566555435961614",
+        "date": "2026-09-01",
+        "views": 9352,
+        "caption": "Taylor Fritz is all business. Time to get to work in Queens.",
+        "url": "https://www.tiktok.com/@ouraring/video/7680566555435961614"
+      },
+      {
+        "id": "7680212786240146701",
+        "date": "2026-08-31",
+        "views": 38700,
+        "caption": "There will be signs. Sometimes the universe sends you a sign. But when it comes to your health, it can be easy to ignore. Oura now keeps an eye on shifting patt",
+        "url": "https://www.tiktok.com/@ouraring/video/7680212786240146701"
+      },
+      {
+        "id": "7679491782958271757",
+        "date": "2026-08-29",
+        "views": 8824,
+        "caption": "Can you play tennis with an Oura Ring on? Taylor Fritz has the answer.",
+        "url": "https://www.tiktok.com/@ouraring/video/7679491782958271757"
+      }
+    ],
+    "caveats": "Embed shows the latest ~13 videos (pinned ones included, which skew max). Dates are decoded from the video ID (id >> 32 = Unix seconds, accurate to the day). Not full history."
+  }
+]

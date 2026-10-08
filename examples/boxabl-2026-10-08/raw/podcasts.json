@@ -1,0 +1,189 @@
+{
+  "source": "https://itunes.apple.com/search?media=podcast&term=Paolo+Tiramani&limit=6&country=us",
+  "shows": [
+    {
+      "name": "John Solomon Reports",
+      "artist": "John Solomon",
+      "itunes_episode_count": 2000,
+      "genre": "Politics",
+      "apple_url": "https://podcasts.apple.com/us/podcast/john-solomon-reports/id1495251160?uo=4",
+      "feed": "https://rss.art19.com/john-solomon-reports",
+      "name_match": false,
+      "feed_stats": {
+        "feed": "https://rss.art19.com/john-solomon-reports",
+        "show": "John Solomon Reports",
+        "author": "John Solomon",
+        "episodes_in_feed": 400,
+        "latest": "2026-10-07",
+        "first": "2025-08-26",
+        "median_days_between_episodes": 1.0,
+        "total_hours_in_feed": 273.4,
+        "active": true,
+        "person_mentions": [
+          {
+            "title": "Impeachment Unpacked: House Judiciary Chairman Jim Jordan on Ukraine Revelations and FISA Reforms",
+            "date": "Sun, 19 Apr 2026 09:00:00 -0000",
+            "link": null
+          },
+          {
+            "title": "Remembering Charlie Kirk: A Legacy of Dreams and Freedom",
+            "date": "Thu, 11 Sep 2025 00:30:00 -0000",
+            "link": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chatter that Matters",
+      "artist": "Tony Chapman",
+      "itunes_episode_count": 369,
+      "genre": "Management",
+      "apple_url": "https://podcasts.apple.com/us/podcast/chatter-that-matters/id1478779098?uo=4",
+      "feed": "https://rss.libsyn.com/shows/206761/destinations/1484839.xml",
+      "name_match": false,
+      "feed_stats": {
+        "feed": "https://rss.libsyn.com/shows/206761/destinations/1484839.xml",
+        "show": "Chatter that Matters",
+        "author": "Tony Chapman",
+        "episodes_in_feed": 369,
+        "latest": "2026-10-08",
+        "first": "2019-09-03",
+        "median_days_between_episodes": 6.5,
+        "total_hours_in_feed": 228.9,
+        "active": true,
+        "person_mentions": [
+          {
+            "title": "Paolo Tiramani - A mattress shipped in a box, how about a home.",
+            "date": "Fri, 16 Sep 2022 10:00:59 +0000",
+            "link": "https://chatterthatmatters.libsyn.com/paolo-tiramani-housing-matters"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Vegas Circle",
+      "artist": "The Vegas Circle",
+      "itunes_episode_count": 201,
+      "genre": "Entrepreneurship",
+      "apple_url": "https://podcasts.apple.com/us/podcast/vegas-circle/id1441019551?uo=4",
+      "feed": "https://rss.buzzsprout.com/1583914.rss",
+      "name_match": false,
+      "feed_stats": {
+        "feed": "https://rss.buzzsprout.com/1583914.rss",
+        "show": "Vegas Circle",
+        "author": "The Vegas Circle",
+        "episodes_in_feed": 201,
+        "latest": "2026-10-01",
+        "first": "2018-10-29",
+        "median_days_between_episodes": 14.0,
+        "total_hours_in_feed": 127.4,
+        "active": true,
+        "person_mentions": [
+          {
+            "title": "Innovation Unboxed: The Boxabl Story w/ CEO Paolo Tiramani and the companies impact on the housing market.",
+            "date": "Thu, 19 Oct 2023 20:00:00 -0700",
+            "link": null
+          },
+          {
+            "title": "Vegas Circle S03 E73 | Paolo Tiramani | Boxbl ",
+            "date": "Thu, 09 Sep 2021 20:00:00 -0700",
+            "link": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "The Rim Break Business Podcast",
+      "artist": "Bike Budie",
+      "itunes_episode_count": 68,
+      "genre": "Business",
+      "apple_url": "https://podcasts.apple.com/us/podcast/the-rim-break-business-podcast/id1416606411?uo=4",
+      "feed": "https://www.spreaker.com/show/3073479/episodes/feed",
+      "name_match": false,
+      "feed_stats": {
+        "feed": "https://www.spreaker.com/show/3073479/episodes/feed",
+        "show": "The Rim Break Business Podcast",
+        "author": "Bike Budie",
+        "episodes_in_feed": 68,
+        "latest": "2022-11-30",
+        "first": "2018-07-16",
+        "median_days_between_episodes": 28.0,
+        "total_hours_in_feed": 23.7,
+        "active": false,
+        "person_mentions": [
+          {
+            "title": "#44 Boxabl - Chatting with Boxabl CEO Paolo Tiramani",
+            "date": "Tue, 24 Aug 2021 21:48:03 +0000",
+            "link": "https://www.spreaker.com/episode/44-boxabl-chatting-with-boxabl-ceo-paolo-tiramani--46223308"
+          }
+        ]
+      }
+    },
+    {
+      "name": "The Jess Larsen Show on Innovation & Leadership",
+      "artist": "Graystoke Networks",
+      "itunes_episode_count": 1142,
+      "genre": "Entrepreneurship",
+      "apple_url": "https://podcasts.apple.com/us/podcast/the-jess-larsen-show-on-innovation-leadership/id1099241776?uo=4",
+      "feed": "https://feeds.megaphone.fm/GRY8755613178",
+      "name_match": false,
+      "feed_stats": {
+        "feed": "https://feeds.megaphone.fm/GRY8755613178",
+        "show": "The Jess Larsen Show on Innovation & Leadership",
+        "author": "Graystoke Networks",
+        "episodes_in_feed": 400,
+        "latest": "2026-10-01",
+        "first": "2022-09-01",
+        "median_days_between_episodes": 6.0,
+        "total_hours_in_feed": 349.4,
+        "active": true,
+        "person_mentions": [
+          {
+            "title": " Behind Boxabl’s Multi-Billion Dollar Innovations | Paolo Tiramani",
+            "date": "Tue, 14 Mar 2023 00:00:00 -0000",
+            "link": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "The Business Method: Interviewing Billionaires, Billion Dollar Founders & the World’s Most Successful People 🎧🔥",
+      "artist": "Chris Reynolds",
+      "itunes_episode_count": 665,
+      "genre": "Entrepreneurship",
+      "apple_url": "https://podcasts.apple.com/us/podcast/the-business-method-interviewing-billionaires-billion/id1069958541?uo=4",
+      "feed": "https://feed.podbean.com/thebusinessmethod/feed.xml",
+      "name_match": false,
+      "feed_stats": {
+        "feed": "https://feed.podbean.com/thebusinessmethod/feed.xml",
+        "show": "The Business Method: Interviewing Billionaires, Billion Dollar Founders & the World’s Most Successful People 🎧🔥",
+        "author": "Chris Reynolds",
+        "episodes_in_feed": 400,
+        "latest": "2026-07-15",
+        "first": "2018-11-02",
+        "median_days_between_episodes": 24.0,
+        "total_hours_in_feed": 234.3,
+        "active": false,
+        "person_mentions": [
+          {
+            "title": "HP#129 ~ Billion Dollar Company Rapid Growth Requirements ~ Paolo Tiramani",
+            "date": "Wed, 05 Oct 2022 05:00:00 -0400",
+            "link": "https://TheBusinessMethod.podbean.com/e/hp129-billion-dollar-company-rapid-growth-requirements-paolo-tiramani/"
+          },
+          {
+            "title": "HP#127 ~ The Blueprint to Create A Billion Dollar Product ~ Paolo Tiramani",
+            "date": "Wed, 21 Sep 2022 05:00:00 -0400",
+            "link": "https://TheBusinessMethod.podbean.com/e/hp127-the-billionaire-mindset/"
+          },
+          {
+            "title": "Ep.547 ~ A $3 Billion Startup That Created Elon Musk’s Unfoldable House - Paolo Tiramani",
+            "date": "Wed, 13 Jul 2022 05:00:00 -0400",
+            "link": "https://TheBusinessMethod.podbean.com/e/ep547-a-3-billion-startup_elon-musk-s-unfoldable-house-paolo-tiramani/"
+          }
+        ]
+      }
+    }
+  ],
+  "total_hours_across_feeds": 1237.1,
+  "note": "Search matches by name; confirm each show is the prospect's own (host/author) vs a guest spot."
+}

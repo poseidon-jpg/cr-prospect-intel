@@ -1,0 +1,60 @@
+{
+  "query": "Oura",
+  "match": {
+    "qid": "Q65241898",
+    "source": "https://www.wikidata.org/wiki/Q65241898",
+    "label": "Oura Health",
+    "description": "Finnish technology company",
+    "official_website": [
+      "https://ouraring.com/"
+    ],
+    "inception": [
+      "2013-00-00"
+    ],
+    "headquarters_qid": [
+      "Q3815367",
+      "Q3815367"
+    ],
+    "industry_qids": [
+      "Q4845080"
+    ],
+    "headquarters": [
+      "Q3815367",
+      "Q3815367"
+    ],
+    "industry": [
+      "Q4845080"
+    ],
+    "profile_urls": [],
+    "note": "Community-edited. Corroborate each handle on the site footer or the profile itself before citing.",
+    "match_confidence": "HIGH: official website matches domain"
+  },
+  "candidates": [
+    {
+      "qid": "Q194933",
+      "label": "Oura",
+      "description": "civil parish in Chaves"
+    },
+    {
+      "qid": "Q47011074",
+      "label": "Oura",
+      "description": "family name"
+    },
+    {
+      "qid": "Q2711958",
+      "label": "Ouratea",
+      "description": "genus of plants"
+    },
+    {
+      "qid": "Q113291298",
+      "label": "Ourania Sidiropoulou",
+      "description": "particle physicist at CERN"
+    },
+    {
+      "qid": "Q65241898",
+      "label": "Oura Health",
+      "description": "Finnish technology company"
+    }
+  ],
+  "source": "https://www.wikidata.org/w/api.php?action=wbsearchentities&language=en&type=item&format=json&limit=5&search=Oura"
+}

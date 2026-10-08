@@ -1,0 +1,19 @@
+{"should_trigger": [
+ "prep me for my call with Jane Doe, jane@acmeprotein.com",
+ "research this prospect before my demo tomorrow: Mike Chen, mike@clipapp.io",
+ "who is sarah@glossier.com and what organic content are they running",
+ "build a dossier on Liquid Death before the call",
+ "I have a Content Rewards demo with a skincare brand at 3pm, here's the email: ops@tallowco.com",
+ "account plan for Boxabl, are they already clipping?",
+ "quick brief on this lead: Dan Smith, Head of Growth at Cantina",
+ "war room research on Gymshark for an enterprise pitch",
+ "look up this person and their company before I hop on: priya@getsunday.com"],
+ "should_not_trigger": [
+ "write me a cold email to a skincare brand",
+ "what is Content Rewards' pricing",
+ "summarize this call transcript",
+ "make a TikTok script for my brand",
+ "find me 50 DTC brands to prospect",
+ "what's a good CPM for clipping campaigns",
+ "fix the bug in my python script",
+ "draft a follow-up email to Tag"]}

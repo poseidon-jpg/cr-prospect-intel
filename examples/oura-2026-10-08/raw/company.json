@@ -1,0 +1,356 @@
+{
+  "domain": "ouraring.com",
+  "company": "Oura",
+  "dns": {
+    "source": "https://dns.google/resolve?name=ouraring.com&type=TXT",
+    "mail_provider": [
+      "Google Workspace"
+    ],
+    "mx": [
+      "10 alt4.aspmx.l.google.com.",
+      "5 alt1.aspmx.l.google.com.",
+      "1 aspmx.l.google.com.",
+      "10 alt3.aspmx.l.google.com.",
+      "5 alt2.aspmx.l.google.com."
+    ],
+    "stack_from_txt": {
+      "DocuSign": [
+        "docusign=ce110f91-8b84-4b39-a62f-c5732d45daf3"
+      ],
+      "Google (Search Console/Workspace)": [
+        "google-site-verification=PoUlkwo32FMnDm_Oplw6Zqs_acToJ1BCO7b",
+        "google-site-verification=AV2e10GuqBWsAt7DaMWDfdgG959d2X9YGnW",
+        "google-site-verification=rM8Gm9xbcEbhWvluIrcM0bwYrVak5YUoaTn",
+        "google-site-verification=Bd3SCfqfl9IyvTnHmdyfcGo33tVIbmhzYsE",
+        "google-site-verification=0F-rc6L1YqFz9aGLkwXRAYAR-hZf3-aob3w",
+        "google-site-verification=VMJJ0kXBIPXu6KqORHVNkkwsnBsvNsaUTz6",
+        "google-site-verification=aeXrt56hgp_AdNlPamFWs1P3-13jpNiSLhY"
+      ],
+      "Anthropic (Claude for Work)": [
+        "anthropic-domain-verification-n0frwc=KHEdrUpq7tXrSe0IsY1ffEV"
+      ],
+      "Dropbox": [
+        "dropbox-domain-verification=encpfibjdsvc"
+      ],
+      "OpenAI (ChatGPT Enterprise/Team)": [
+        "openai-domain-verification=dv-yS6zCndE7lvKC6qzAPYZ72Vx"
+      ],
+      "Meta Business Manager (runs/ran Meta ads or commerce)": [
+        "facebook-domain-verification=e96csiggbtsdy7r1mgryiwpsbchz7d"
+      ],
+      "Amazon SES": [
+        "amazonses:aCPGN/GloRcZMiB4r1gTmwC0+0YS2v92VW+XqkyMMCc="
+      ],
+      "Wrike": [
+        "wrike-verification=NjIxMzI0MjpjNTdlNTNhOTRkNjM3YTI2YWQzMmM5N"
+      ],
+      "Atlassian (Jira/Confluence)": [
+        "atlassian-domain-verification=ehlvdaT6PCJdd3GZS6y7L+nUeaLOAF"
+      ],
+      "Apple (Business Connect / Apple Pay)": [
+        "apple-domain-verification=LCbgAqAcbvyX17mc"
+      ],
+      "Microsoft 365": [
+        "MS=ms19533188"
+      ],
+      "Zoom": [
+        "ZOOM_verify_9EcsBtnUSsekE1_VUg4IKA"
+      ],
+      "Miro": [
+        "miro-verification=88ae156b7fd8084a1930ccad85ed89b4f04d689e"
+      ],
+      "OneTrust (consent/privacy)": [
+        "onetrust-domain-verification=27eecd0670684b4bacac42633e731ad"
+      ]
+    },
+    "spf_senders": [],
+    "unmapped_tokens": [
+      "gc-ai-domain-verification-8gykf1=kGMPWMsl7kl6oFJwdu94x5rch",
+      "loom-site-verification=25951ddc1ad142f9967a75b6e7d4d4b4",
+      "segment-site-verification=vFKnhTTO5NSSvdRnTDwoh5L0umerws2l",
+      "status-page-domain-verification=vmzm5mc3j8kk",
+      "decagon-domain-verification-nnhtpg=1PcNY8Ns3WkCHmrGf08PrArQV",
+      "lovable_verification=workspace_01k6fy6f11ffms487a4cthez08",
+      "parallels-domain-verification=94bf88bb585b4dc48a0fd5cf59327f1a74e022ef7fa943b99b",
+      "hcp-domain-verification=8be2200cd40d18eac07ec30dd18305b264e495b6381de77fc662e700",
+      "cursor-domain-verification-jkttgd=w7TrqjQbcSpC1CAP8aip21Di4",
+      "Mosyle-verification-1742842610",
+      "linear-domain-verification=uwhjhdg9t3xn",
+      "docker-verification=7ff73624-303e-460f-870d-c443f3922c29",
+      "Mosyle-verification-1771872575",
+      "smartsheet-site-validation=5n-IfZFJmSuzmxCqJJNYoBQ74nviWgeI",
+      "elevenlabs=bpfWJv9Fss6q9RH25SxH7cb30c99LLe0exOOt8Mi4UI"
+    ],
+    "dmarc_policy": "reject",
+    "note": "TXT tokens can be stale (old trials). Treat as 'has used / verified', not 'pays for today'."
+  },
+  "rdap": {
+    "source": "https://rdap.org/domain/ouraring.com",
+    "registered": "2015-02-23T07:27:49Z",
+    "expires": "2027-02-23T07:27:49Z",
+    "last_changed": "2026-05-15T09:33:47Z"
+  },
+  "shopify": {
+    "is_shopify_public_json": false,
+    "detail": "HTTP 404",
+    "note": "Many headless/Plus stores block this. Not proof the brand isn't on Shopify."
+  },
+  "ats": {
+    "greenhouse:oura": {
+      "source": "https://boards-api.greenhouse.io/v1/boards/oura/jobs?content=true",
+      "open_roles": 78,
+      "buying_signal_roles": [
+        {
+          "title": "Director, Partnerships & Enterprise International Growth",
+          "location": "Hybrid - London, England",
+          "url": "https://job-boards.greenhouse.io/oura/jobs/4343962009",
+          "dept": "Commercial"
+        },
+        {
+          "title": "Senior Director, Healthcare Partnerships",
+          "location": "Remote - Boston, Massachusetts; Remote - New York, New York; Remote - San Francisco, California; Remote - United States",
+          "url": "https://job-boards.greenhouse.io/oura/jobs/4408620009",
+          "dept": "Commercial"
+        },
+        {
+          "title": "Staff Engineer, Technical Lead, Content Management Systems",
+          "location": "Remote - United States",
+          "url": "https://job-boards.greenhouse.io/oura/jobs/4402115009",
+          "dept": "Software Engineering "
+        }
+      ],
+      "all_titles_sample": [
+        "Accounting Manager, Fixed Assets & Capital Accounting",
+        "Compliance Engineer",
+        "Demand Planner, E-Commerce",
+        "Demand Planner, North America Retail ",
+        "Design Leader, Software Design",
+        "Director of Payments ",
+        "Director of Product, Hardware",
+        "Director of Sustainability",
+        "Director, Partnerships & Enterprise International Growth",
+        "Director, Product Design Operations",
+        "Director, Technology Business Operations",
+        "Global Trade Compliance Manager",
+        "Hardware Reliability Engineer ",
+        "Hardware Signal Quality Test Engineer ",
+        "Health Economics & Outcomes Research (HEOR) Lead",
+        "International Tax Manager",
+        "Lead Health Sensor Architect ",
+        "Logistics Manager, Americas Retail Operations",
+        "Logistics Specialist, Inventory & Inbound Operations",
+        "Manager, Global Financial Reporting",
+        "Manager, Partner Development (Health Plan and Employer)",
+        "Manager, Visual Merchandising, EMEA",
+        "Packaging Product Manager",
+        "Packaging Program Manager",
+        "Paid Search Specialist (US)"
+      ]
+    }
+  },
+  "tech": {
+    "skipped": "projectdiscovery httpx not installed (optional)",
+    "manual": "View source of https://ouraring.com and look for cdn.shopify.com, static.klaviyo.com, cdn.attn.tv, analytics.tiktok.com (TikTok pixel), connect.facebook.net (Meta pixel)."
+  },
+  "news": {
+    "source": "https://news.google.com/rss/search?q=%22Oura%22%20when%3A90d&hl=en-US&gl=US&ceid=US:en",
+    "count": 100,
+    "items": [
+      {
+        "title": "Oura joins wave of IPO delays as markets turn shaky - Reuters",
+        "date": "Tue, 29 Sep 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORDctV240eEZCRDJqSGJ5ZTRPSm1uaDNIalFqY19ZdjVjY2ZTZXU3Zi00NkNpM3haSVZkU3dDNzNvYzVkcUxRWkNlOG91OUVMbGJHc0xwU0FmaE5RdEtsNXl2NXlOTFQtMHRLWHM0WWFtLVJGZXZDRG1zV0tMU0tVWnotdUpMNFZSZW03b3pwYktDVmZz?oc=5",
+        "source": "Reuters"
+      },
+      {
+        "title": "What Oura’s Stalled IPO Tells Us About One-Hit Wonders - WSJ",
+        "date": "Tue, 06 Oct 2026 09:30:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEdjWWlJOGoxTXdCSzVlSUFqeXlNdEdXalduQ2MtdzlFbnJSTTJKTnJ6OE54QkNJQVBWWm9OTlppekI1ellOTy01YTd4U0FaMDNnOXdFS1hqME5XMk5sZ2FLNThVMGdMeGdncW13V2IxOXUwazhqZEVraXhGcmx4WWFsemxLSUl4QUV1WjNSOGpkNDVsVXBOZ19tN0FXdw?oc=5",
+        "source": "WSJ"
+      },
+      {
+        "title": "Smart-ring maker Oura delays its IPO citing market uncertainty - NPR",
+        "date": "Mon, 28 Sep 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Pa3pYUi1ZWFBxRV9aRVFXRnRsVDRBdUxIMDF4cnF0TVkxS0FXWFpaVmhVeG0tTUtaYXhLbzhvRHFXUldRWWtGdXdQUHY4WnJISjhSTDg1a1N3ZVJPTEVJOUgyT3owbWJCWkNPV1RYTnR0dw?oc=5",
+        "source": "NPR"
+      },
+      {
+        "title": "Oura faces class-action lawsuit over sleep tracking accuracy - MobiHealthNews",
+        "date": "Mon, 24 Aug 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONW5OQ1JsMnM3UEdwd25iTzY4QUxVWlJaRlRLVm5jem1nazlqa3kwcXozM2tfVXVJdGMyQ0FFbm04V0ZkYnZxMFZLLTVyMW15QWhvSnlHcE9Jcnk5aGZybHVSVk1SLXdmU2VVZEZhLUJsb1B5REFHeFFmTjZlVi1Yc1VyRjFCbDNNWUlwYnBTUWlWV0V3S1pkS2JfM0k?oc=5",
+        "source": "MobiHealthNews"
+      },
+      {
+        "title": "Smart ring maker Oura postpones IPO due to market 'uncertainty' - CNBC",
+        "date": "Tue, 29 Sep 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRjhPczhRWEkxcTJFWlExRXFHU3htOGVnUlRaWnh5NjVwTkdjSEJTNnlDVjF3ek55S3NVbWxnRm1qMWYyY2E4S3FhYldpOEpDVThMNmxsdU15NDdsRkxleHVyZERMM0l0ckhQSUJyTkc1VmtBRjBWUExVNURic0Z6THl2aXBvejFySldhM2pPXzljYTRudGJOMElSRUozTjjSAaQBQVVfeXFMTnd3UnBHa2RRSUhYVVdwQjN2VFA2aEQ5M2dYU01NUHdrTTkzMHEzc2g5czE4U1F4TEtrUWlGYkttdVdCb3NQTmxIdGJaOUVNQ25ESDNsZy1FZzNCQmY0Y1p5cXlsMHAyZmYySVlNSDdBSFN1WElfT1lNVjBWVnJBMUpLZlBoRXpBVHNibXNIZWhTZE1DSXpYcHBNTmlCaTdSdmJtUVE?oc=5",
+        "source": "CNBC"
+      },
+      {
+        "title": "Smart-ring maker Oura delays $2 billion IPO - Axios",
+        "date": "Tue, 29 Sep 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WUFBFM2hkUkhtaEhhVklZVzhId0Z4aU5kN1FwdTZXMG1tSExpNjNZVVhtdU1wUHQzanBUSmxFWDMxWWRZakNwRTJPazlEUEpQdEFoZW9QR3lTdGRSUWY3bWZRMU5SVVc4UHhQcA?oc=5",
+        "source": "Axios"
+      },
+      {
+        "title": "I Want an Oura Ring. As a Reproductive Health Lawyer, I Know Better. - Ms. Magazine",
+        "date": "Sun, 23 Aug 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aelBhRVpGVmRtVGpCNzhIZzF0dTNwWVBlSnFXUHE5S3VWRlIzZFVMcFlYOFE3UzlxWE5kQmNKbUF1RHc3UjAtdFNqRkFFUGl6UUx4SFVmdjY1ZHlMUDFhN2Izd3ladXVOVHVMalE0MVV1NlFkRVJJ?oc=5",
+        "source": "Ms. Magazine"
+      },
+      {
+        "title": "The Oura Ring 5 Is Slimmer and Lighter Than Ever. Is It Worth the Space on Your Finger? - Men's Health",
+        "date": "Thu, 20 Aug 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HeVNJNGVaUmNSUHNKSmp5Y2hjYmpkRW1xVVl2NWMybTRIUTUyb190VTZjV0NVMGxHYjhRTjN3QjZwelJIVmFieGNpWFlQcjBXdWJwWHZoWGI3d2t2bkZDcU1ESXhOVGl4T2czVUFyemNMQQ?oc=5",
+        "source": "Men's Health"
+      },
+      {
+        "title": "Lilly Makes an Equity Investment in Oura, Supporting Oura’s Vision for More Connected Care - Oura Ring",
+        "date": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lME56VmdVZjVSNWZ2T2xCaERHcVpPNVJLT2x4UU01RC14c3FzenVPdFQ3QkptMTNqWXFPdkRBOVl4NDVUamlucGVDTlBrdVRsc2FDdnN0UThCN1c0dzRJ?oc=5",
+        "source": "Oura Ring"
+      },
+      {
+        "title": "Smart Ring Maker Oura Postpones IPO—Blames Market ‘Uncertainty’ - Forbes",
+        "date": "Tue, 29 Sep 2026 10:53:38 GMT",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWWxOMks3TXZRTFJ3VGt0MFJQbnMzdW5EdlNneFJZZEhkbjNZcGlHa0ttaS1odzJGaEd0MW5scTRDQnNiZ1k5YUJDT1JXdGVjcmlXbFA1c0pkUTNJZ0EyRnZOT1ZNUm4zdUVGLWtJRTNscGVSTjF1aENkVndNbmxSRktUanBnbnYycUZmMmNYTllsOUxSMlFLR2R3M1RCcmZOb3Naa1QzV21kTTNGN1djMl9WeXJlQQ?oc=5",
+        "source": "Forbes"
+      },
+      {
+        "title": "'A common problem': Oura delays its IPO - Yahoo Finance",
+        "date": "Tue, 29 Sep 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVldFaEFONHc3dkFMNGFGZUFQN091VVZ0ZU42cktESDcwUDdWSU5vd3RDMkpETDJCdlI1WlhRM042am9vLXp1Zm5WMW11XzF4b2JqVVNJbVpPaEVfUnhfNjhScXpYLW5uZ2ZPaTFJcFcwTVo4MUpfVFpJVTV3c0ZuTGprdXdjbmZsZ1hkOW5HZ25tN0t1Z0tYSGY2a0RRUTMwcmc?oc=5",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Why Oura pulled its IPO: Wall Street experts suspect valuation concerns and an Apple-size threat - Fortune",
+        "date": "Tue, 06 Oct 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rcnlIeXNKNkxkcVpTVl9jUzFWdWMweUVjVEs1WUsyd1d5bEJoRVQ1akhXdkR1eEdnckVTaEYzSXhvVjVMVThHRVduQnJaZUJHSDFuMTNkbV84YTRYZF8zR3VLYjZCaDZz?oc=5",
+        "source": "Fortune"
+      },
+      {
+        "title": "Forget ‘Market Uncertainty.’ Here’s the Real Issue Behind Oura’s Halted IPO. - Barron's",
+        "date": "Tue, 29 Sep 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaSTlMTmptVWdXdmVHX0FpZ3F3Zi01a3VvZS1GY3NDa3hPa05rZGxyUEVndkhRWnlJVGpHUTFibThQeVREUlpBSFRfZ1Y2YzJ3M1h3QWNsUE53Y0NLUGQwUEl4cnZibk4yWF9XY0diSjI0VDAyVEFDcw?oc=5",
+        "source": "Barron's"
+      },
+      {
+        "title": "Oura becomes latest US IPO hopeful to delay listing as market jitters deepen - Reuters",
+        "date": "Tue, 29 Sep 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZUt5V19wbkExakV3MUdDaXdyZkdoMkFENzk2ZXBabTdCVVUwa2pFOHUyT252SWYxSWRyMnVWZkJrTjF3OVdHck4xWWlJRTJ2UmVBVUQyaEVWeFZmalVFS3ZaSjg2WmNxcjRsUFdWUWR2NXl1TXE1WDl3M0pXdjY4dXRSWk10VVFuaGNYTnlpd0F5Nk5zWThubWpEZHN4NDBibTk0?oc=5",
+        "source": "Reuters"
+      },
+      {
+        "title": "Robinhood Wins a New Role in the Oura IPO: Underwriter - WSJ",
+        "date": "Mon, 07 Sep 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ1NkcUxrengxdF9DdlRIOHlsNzk4eTQ1N09KaW5wdnJrUVZaaHBCYm1xOG1uSDJaaENxLTJEckwwanNtaHcxNUZiSUpRVld6U2ZJaEdfOTJqM0ZNcHo1Y3NPQ1hpOTBQNHpKcE9sZ0ZrTEdTMTRFckoxNGloWkN6UUhOeGJDMXN0ZmpmQkNaRGYySVY0?oc=5",
+        "source": "WSJ"
+      },
+      {
+        "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables - CNBC",
+        "date": "Sun, 04 Oct 2026 12:00:01 GMT",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzNTVQTGpZTFpDTndablpZbTl4SXVIdHJMd01DcV9VUmZvTGdFd0Naeno4SlA1Q01JZVdyV3RQUDNKaGdsMHlOc2s5WVhxVUswb3dURndiZW9BVWN5YUY5UnB4cGJuanVPaGZ1RXFRLWVJcjdC0gF6QVVfeXFMUFpsQ0EwT0VmZmtRUTFoNkk0R1lJb0wzc1ZVSjdETVNhVklVczBJcG5TMmtjM01mUEFIdU50Zk9QVXN3LUJXZVlEcjd3TjdVbmFLaWtua2kyMENjay1BeUdnWjRRdjd6ak9YZDh1aDA3SnI5bVp6R041TGc?oc=5",
+        "source": "CNBC"
+      },
+      {
+        "title": "Smart ring maker Oura eyes $15.6 billion IPO valuation in fall listings demand test - Reuters",
+        "date": "Mon, 21 Sep 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONjZTMzdJY2JfUXkxbmNSTjlqdTJnOE5WX19kNVV5NTdTRndYSGJwbHV1aHJMaXprSldzQ19jb0xYbU81MmtRb29NVFV0a0lRTFhmaU1DSTBCYXJsWG9RVE1XOEtJa3ZFMkRkcWtxZ0laaVRHRGlRU2pFQWk5MUpoMFlTTUJlSEtzbkx4TUpxVDJwa0Z4NW4tVFJyWEtsa21QYjJDX1lQdnNWX2tNWDlFSUdaclE5NlRzRURfblRIbw?oc=5",
+        "source": "Reuters"
+      },
+      {
+        "title": "Oura Postpones IPO Over Market Uncertainty - WSJ",
+        "date": "Tue, 29 Sep 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUk8zQ1FvR1FvdEVoVkxCeTJ3MG9JcWV6UmFMbG9DRXVyVTkzYzV3V0ZrU21xejFNYmczU0tJd05RZWY4Y3RtUHlBTFVYeEJjYnp5MUFrMU5vLUw0MmE4T0E1N3ZkVXM4SXNyYnRscWQyR2FFYzNHYW9qa0lKZGRFX3V3?oc=5",
+        "source": "WSJ"
+      },
+      {
+        "title": "Oura’s IPO Reveals High Growth for Smart-Ring Maker - WSJ",
+        "date": "Fri, 04 Sep 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWZ3aU1uQ2syY0s4T011Yk5iWU4wS3A1RzAtXzNyc25kMURpUDkxeHJodGUzSFlGU2lOYTVkakdmSnF4d01CdElqdnZjdnFSWUYxMDZESWdNMGh2T2JFQ08za0JfOXk5dTdsUlA0NFZwM0poRHd0UDlLRmNSeW5ES1ZPY0hlbGlaXy0xbUFMVkRqLXdCNWVQSnh3?oc=5",
+        "source": "WSJ"
+      },
+      {
+        "title": "Smart ring maker Oura reveals revenue surge in US IPO filing - Reuters",
+        "date": "Thu, 03 Sep 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTVo2UVFWUS1vS3RTTEhNNHFjT095TEYtcklJUzFPamV1aHJzM1gxNWtOcFAtYWdFYWp3NmZJNHk4V2lva2NfSDlpMWliUTVSVGdjTTNoRndSZmYwMlFybUF3cWV3STZyN1ptQmdBcThjakxhNDF3VGJxbl91QUduRFV4RWNCZw?oc=5",
+        "source": "Reuters"
+      }
+    ],
+    "note": "Google News RSS is undocumented; links are Google redirect URLs. Open the original before citing."
+  },
+  "subdomains": {
+    "source": "https://crt.sh/?q=%25.ouraring.com",
+    "count": 250,
+    "interesting": [
+      "affiliates.ouraring.com",
+      "ambassadors.ouraring.com",
+      "api.aria.ouraring.com",
+      "api.commerce.ouraring.com",
+      "api.ecom.ouraring.com",
+      "api.fhir.internal-eks.pdp.us.ouraring.com",
+      "api.orders.ouraring.com",
+      "api.ouraring.com",
+      "app.fhir.internal-eks.pdp.us.ouraring.com",
+      "app.ouraring.com",
+      "blog.ouraring.com",
+      "creators.ouraring.com",
+      "go.ouraring.com",
+      "help.ouraring.com",
+      "link.e.ouraring.com",
+      "link.m.ouraring.com",
+      "partner.commerce.ouraring.com",
+      "partners.ouraring.com",
+      "shop.ouraring.com",
+      "status.ouraring.com",
+      "support.ouraring.com"
+    ],
+    "sample": [
+      "ablink.e.ouraring.com",
+      "ablink.m.ouraring.com",
+      "activitytagging.ouraring.com",
+      "advisor-analytics.ouraring.com",
+      "advisor-s2s-internal.ouraring.com",
+      "affiliates.ouraring.com",
+      "ai-prototypes-auth.ouraring.com",
+      "ai-prototypes-internal.ouraring.com",
+      "ai-prototyping.ouraring.com",
+      "aicoach-frontdoor.ouraring.com",
+      "aicoach.ouraring.com",
+      "ambassadors.ouraring.com",
+      "analytics-decorator.internal-eks.ouraring.com",
+      "api-creators.ouraring.com",
+      "api.aria.ouraring.com",
+      "api.commerce.ouraring.com",
+      "api.ecom.ouraring.com",
+      "api.fhir.internal-eks.pdp.us.ouraring.com",
+      "api.orders.ouraring.com",
+      "api.ouraring.com",
+      "app-server-sync.ouraring.com",
+      "app.fhir.internal-eks.pdp.us.ouraring.com",
+      "app.ouraring.com",
+      "apps.ouraring.com",
+      "assa-userdata-store.internal-eks.ouraring.com",
+      "assa.ouraring.com",
+      "async-exporter-api-internal.ouraring.com",
+      "async-exporter-api.ouraring.com",
+      "atp.ouraring.com",
+      "auth-api.commerce.ouraring.com",
+      "bilbo.ecom.ouraring.com",
+      "blog-proxy-eks.ouraring.com",
+      "blog.ouraring.com",
+      "bulk-order-api.commerce.ouraring.com",
+      "business.ouraring.com",
+      "cactus.ouraring.com",
+      "ccs-api.ouraring.com",
+      "circles-internal.gp-prod-euc1.shared.ouraring.com",
+      "circles.gp-prod-euc1.shared.ouraring.com",
+      "cloud-processor-api.enterpriseproducts.ouraring.com"
+    ]
+  },
+  "wayback": {
+    "source": "https://web.archive.org/cdx/search/cdx?url=ouraring.com&output=json&fl=timestamp,statuscode&filter=statuscode:200&limit=1",
+    "first_snapshot": "2015-03-05",
+    "note": "Age of the DOMAIN, not the brand (domains are often bought used). Prefer Shopify earliest_product_created or Wikidata inception for brand age."
+  }
+}

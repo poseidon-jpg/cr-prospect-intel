@@ -1,0 +1,209 @@
+{
+  "domain": "boxabl.com",
+  "company": "Boxabl",
+  "dns": {
+    "source": "https://dns.google/resolve?name=boxabl.com&type=TXT",
+    "mail_provider": null,
+    "mx": [
+      "0 d271595a.ess.barracudanetworks.com.",
+      "10 d271595b.ess.barracudanetworks.com."
+    ],
+    "stack_from_txt": {
+      "Google (Search Console/Workspace)": [
+        "google-site-verification=BTuRMyh_w1VB7TMrOcYgIWvB0lAXKNNzXFy",
+        "google-site-verification=We1AV6icYIU33c3q0e9tV1HMunDNDJkTr_x"
+      ],
+      "Stripe": [
+        "stripe-verification=266D33EB6B89C78784DB12DB54CF6866CC44A177"
+      ],
+      "Atlassian (Jira/Confluence)": [
+        "atlassian-domain-verification=YXp4j75TOH/Ne9Fla0T0K3RdPQrcLE"
+      ],
+      "Anthropic (Claude for Work)": [
+        "anthropic-domain-verification-w57fg2=S4PX9oH7yvlp5VCuZDXtCfw"
+      ],
+      "Apple (Business Connect / Apple Pay)": [
+        "apple-domain-verification=behf19Q7L7XpUyfz"
+      ],
+      "Meta Business Manager (runs/ran Meta ads or commerce)": [
+        "facebook-domain-verification=6wngpywz49kpq7e7tvh3msxdxce4dt"
+      ],
+      "Zoho": [
+        "zoho-verification=zb91165826.zmverify.zoho.com"
+      ],
+      "Microsoft 365": [
+        "MS=ms24901296"
+      ]
+    },
+    "spf_senders": [
+      "HubSpot",
+      "Microsoft 365 sends mail",
+      "SendGrid"
+    ],
+    "unmapped_tokens": [
+      "pandadoc-domain-verification=UqTJbKcEWE8UhoGNFrfAFC",
+      "protonmail-verification=1dc59da8e11b34f00a43851fc3df7966924877dd",
+      "tipalti-domain-verification=ee155837-808f-f111-8394-02501973a9c1",
+      "sophos-domain-verification=e8a3fa8d0904c878222c3427eb6dd8199b3da5bef384ca6268a5b",
+      "cursor-domain-verification-85qnwa=zOPkgMLgSBQ0hd9ZIVFqxSWlo"
+    ],
+    "dmarc_policy": "reject",
+    "note": "TXT tokens can be stale (old trials). Treat as 'has used / verified', not 'pays for today'."
+  },
+  "rdap": {
+    "source": "https://rdap.org/domain/boxabl.com",
+    "registered": "2013-02-10T14:55:53Z",
+    "expires": "2027-02-10T14:55:53Z",
+    "last_changed": "2026-02-11T14:45:37Z"
+  },
+  "shopify": {
+    "is_shopify_public_json": false,
+    "detail": "HTTP 404",
+    "note": "Many headless/Plus stores block this. Not proof the brand isn't on Shopify."
+  },
+  "ats": {
+    "result": "no public board found for slugs boxabl,boxablhq,getboxabl,tryboxabl",
+    "note": "Company may use Workday/iCIMS/BambooHR/LinkedIn-only. Check careers page."
+  },
+  "tech": {
+    "skipped": "projectdiscovery httpx not installed (optional)",
+    "manual": "View source of https://boxabl.com and look for cdn.shopify.com, static.klaviyo.com, cdn.attn.tv, analytics.tiktok.com (TikTok pixel), connect.facebook.net (Meta pixel)."
+  },
+  "news": {
+    "source": "https://news.google.com/rss/search?q=%22Boxabl%22%20when%3A90d&hl=en-US&gl=US&ceid=US:en",
+    "count": 100,
+    "items": [
+      {
+        "title": "Boxabl Shares Fall 50% Just Days After Tiny-Home Maker’s Public Offering - Realtor.com",
+        "date": "Thu, 23 Jul 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUVlSdEpOandqTWR2ZTBVbkY3WlJMV1Mzd0FUUW1LTUZNcVh4SmZmaG5oRUMxUWcxRTZsUVRsLTRyVlo2TGNHNnM0ZVhOQi1haHBUT2RGNXV6SkNxdEZMSkxpcl9IQjhVcnV3ajd1cEpHbEE5ZlB0M05NR1c5emx0Snc3ZC1fUzlIZ0x2Y25KMTN4dw?oc=5",
+        "source": "Realtor.com"
+      },
+      {
+        "title": "BOXABL Inc. (NASDAQ: BXBL) Completes Business Combination with FG Merger II Corp. at $3.5 Billion Valuation - PR Newswire",
+        "date": "Fri, 17 Jul 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeVZVMzZ3Z25QN0lvR2hrdWhZOUk2RUJpMFhNbm1fMUpxbVBFUDJfRVA2TUlzaVozWTI2alk3OVJjVXQzVUNSWDVFN1hnRnh0cndTVFZwT2Q3XzU4ejJmd1hzXzNXZGtLTmdWWHZmLWNDenVORzFOSHRaS1JVOERrRDltd0U1ODhrcTRReFhSWU9oUzQ5dkoweVdkRGdZdG1wQTE0NjJVLWw4R1cxZy1jb2lYamMzcS10N01NZ19NRU9SMm5WeWUzY1pyckU5NVUzRkUyd0pfc1FQTG1kYWo1RVoyakVSQjJKMS1rTWxn?oc=5",
+        "source": "PR Newswire"
+      },
+      {
+        "title": "Boxabl Shares Fall 50% Just Days After Tiny-Home Maker’s Public Offering - Yahoo Finance",
+        "date": "Thu, 23 Jul 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdUpickZLdW9rb1dfZGtESzJ5RzNrYnQzcWRJSFQtT01xdlpSQVRwVk9ZaDBWTkNtSmRNd01palM5Q1lmT3N3bEt3eFdRemlZSDRlRWhUM2QzWlF5Rl9rMGR2ajNGeGpSb1hoWWh3ZTRIdW9ST2hNakNlQ1lDUWhqRVRWdlZLZTBKUmZxeC0tNHhkUQ?oc=5",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Tiny-home builder Boxabl, based in North Las Vegas, goes public - Las Vegas Review-Journal",
+        "date": "Mon, 20 Jul 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLWhQeHhUR29lVzRuSU0tcjhUX25lS3hRLTZVcGloYVNKRHhvUFhjVlhEN3VaZzNjZi10QjhuS25lR0dTRk5KX1ZsQVhqQzhlR1ZOLWZaNnBfLVVCa0tMSEVoRzJ1bkFWVFBLY0VhRHdwb1N1Qk12Wk1fZUtNR0x2bDRkaVBqcjRUcHRWelBFTzdIcGtnUVBR?oc=5",
+        "source": "Las Vegas Review-Journal"
+      },
+      {
+        "title": "BOXABL Inc. Opens the Door to Mergers, Acquisitions, and Partnerships Across the Housing Industry - Morningstar",
+        "date": "Thu, 13 Aug 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQlFtSEExUFBXMTZidG1XajZBN1NUa2Y2VlpGM1FfcWxsaVpseWM0VHhza0NMelZacDVmVkVWVXFaYklqandWY2pvQ3FzWkFCU1VpZVItZFd2WWZTc20ySjJoSWVDOVQ2enRHMUhTSk5tOEZLcTVod3Z3Y1c0WHZtMXY5blVSbVZnaE44MUxHX0ZxMWZSZWFoVkU5Y05iQl9vNTI1NXhGOFhwd2p4QUtHRk11Z0haV25XdEJUeG5hYS13bHI2eWtIWnFXRnNwMGYwcVFDOFd2VC03NkxPTmFQUE85TEVCMkJYcW9v?oc=5",
+        "source": "Morningstar"
+      },
+      {
+        "title": "Prefab home startup Boxabl goes public after $3.5B SPAC merger - Inman Real Estate News",
+        "date": "Mon, 20 Jul 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWZNU0ZGMWR2UzhrVG5uWF9hLUJCZTlma1lMcTNXVGJHNU1FZVZaaUhKVWgxQVgwODNaMW5oT0I5enpBZnI3V2NiVTVGUFRvdUV5S1IyTDZtMFRDNG9BNFR0b1NxS3VSS0NkS3FQUG5GRmlPSDBoNTdLUkt2YkRUOTVLYmFuYlVm?oc=5",
+        "source": "Inman Real Estate News"
+      },
+      {
+        "title": "BOXABL Rings the Opening Bell - Nasdaq",
+        "date": "Thu, 23 Jul 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tM2ZPVHNBQm5NUHg0ckxYTjQ1ZFZwRi0tY1dMWjQ2S0xyOUZQZHhyOWhKVEhrLV9IeG5VYVNwbzRoVzV5QmJBU2ttbVpDaXB3UVVwdTM1Y3ZLOHlraVVZOTRtVmdJUQ?oc=5",
+        "source": "Nasdaq"
+      },
+      {
+        "title": "Boxabl valuation at $3.5 billion tests housing fundamentals - HousingWire",
+        "date": "Thu, 30 Jul 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CSURYUlFSekwydDdPY0dyTTlIa00zZTRWYllUUFREdkswajg0amtEd2VOUUY4RkFqdUpqbW5OUG9XaU5BVUNZTUFvT0RUMkVvcC1lRC1pSElWMldRTU02TVRxNE81dGdsbjJpVFhaYjBvWWc?oc=5",
+        "source": "HousingWire"
+      },
+      {
+        "title": "BOXABL goes public at $3.5B valuation via SPAC merger - Dealroom.co",
+        "date": "Mon, 20 Jul 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUTIzSmwtM1poZlZmUTA0Q29tQ21ZWE9qX3hHcW9hRThyd3Rpem1qZjNvVEZaZGNKWERYLUVjTkJuZUI3UGpRQ2pYbUF0cUlzbElLQzVxaFRreUg4by01aVM4S0tELS0yUjU3aFk2QWxBeEpvMXBEMTBWZWVWTGI2bDNFZEJzcjhldWdVVFJjdw?oc=5",
+        "source": "Dealroom.co"
+      },
+      {
+        "title": "Boxabl Shares Jump 20 Percent as Tiny Home Startup Debuts on Nasdaq - Startup Fortune",
+        "date": "Mon, 20 Jul 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSlFMMl9FU3ZKMlJzeWZWV3N0V2xvd2QzVWJWNEZjYWhyV1VCUnN2dUx4VXVmd0VyRjZRMUZaMWFLNmUyWmtqQS1zeFFWT3ktanR5OG1Rc19GeE9adEFaMEtFOHpCVjB3RnRlbERvZGxBa3NNejVfU3VVVzdieWV6WDlnaXBlenpTWTlXeXM4ZHNuQ0FVYU8wU0h0WQ?oc=5",
+        "source": "Startup Fortune"
+      },
+      {
+        "title": "Boxabl Ignites SPAC Market, Goes Public at $3.5B Valuation - The Real Deal",
+        "date": "Tue, 21 Jul 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYzAyRG5xUG0zV0JibXZqSkpGdHhCV0NKZlpiRkNBM0tnRVJDbXpLcnFCRFVvbUprZDJPRlZDLVdndnN5c2lfdzJKdGdhVkJPWDNLZ3JBWE5lbE9qZ3BtX3hXc0xtd0tDbmlNMVk1TEhjM2RxcU5FUDNpeGJZQmhQRExqTHBvY0lVS2hTS191NDBrb3NLOHFLRDhqZEtWSWtRM24w?oc=5",
+        "source": "The Real Deal"
+      },
+      {
+        "title": "BOXABL Unveils Server Pod Concept, Invites Data Center Industry to Explore Custom Factory-Built Designs - Yahoo Finance",
+        "date": "Thu, 20 Aug 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb1ZNVThFZXFaOFlmX041c29rTkJFWHExcWpDY2hESm95dXZPSHRlZkFXcUFObmpra2RvSWRZSEJ3YWxfRE13YkJxZWRzMDlfclpHaHFscU1pVDJFakVJNzdNRHNUWDladHRJcXNnZHRRWnhVcm90SHZQa0hfNHE5RUZ3VWc1Y3hVTE1oODFYRTZuX3pON3J1VlJB?oc=5",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "BOXABL Rings the Nasdaq Stock Market Opening Bell - Nasdaq",
+        "date": "Thu, 23 Jul 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQU5hVGJPY1hoMmJ2bXBrWDNUeWVZNUk0bUVYUzNtZnZUell5N2tIX1JKam1YNmh1cTIya1VmVmt6OEtEbFNzdERPbE55OXV0eEpmOVlUTDZWNkNqS2hkWXBFbFctSHNLRVVIQS1RR2tsbWVQRlYwalF2QWh6VkRSNA?oc=5",
+        "source": "Nasdaq"
+      },
+      {
+        "title": "Boxabl CEO On Going Public And The Push To \"Crush\" Housing Costs - Inman Real Estate News",
+        "date": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1dOZ21XNkdlQm9zal8ybkd6eG1rd2dsS1d4WWZRY0JRb2ZRU1hENXFlQ2x3aWhlNW9ZY3QzV3RRdVlBRnZtUEQ0X01yZFpNSF9BT2x3YUx3ZWtWQ1JGc2RFcGxsdC03dGVVZkJaV1U4OTFpbGVvdDF3UzR1RmlObzZPOXVjNWdEWDk2TQ?oc=5",
+        "source": "Inman Real Estate News"
+      },
+      {
+        "title": "BOXABL Announces Multiyear Purchase Agreement with National Multifamily Developer LC Vegas Acquisitions, LLC for Up to 1,500 Homes - Morningstar",
+        "date": "Tue, 01 Sep 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQVmRsUl80X3RScGVJVTJGNDh6MTlqMTZJV1RSMmQ3cWdZdlctbXNTMHVWQXNlSGw4T3Rpb0VWVXBrUkhIeGdRbG1Vd1FyVDk1eHdCdUFSS3dSem5RRFdCbThBMjY5YlNUSUo4TTBtbnBZNHgwQWF2Y21udnlxY043MGFiZDVCdl9leE5pcTJBMGl1Z2N1WEUxSGJjYnZ1SmxNbzlJaVF4d0ktX214TC0tMkhqSzF4cnR3TDVSX2tZNFR4MkRtRVFTRUJhdFlXTXZIUjQxWTdJalNtQnd6ZFNQcXFYazZhb0dWUVRPeWJ5NnhPOFRCeDBUS3VKMkZxVGlXOTU1RWszTGVzLTJYSEM1MTUxOXktTU0w?oc=5",
+        "source": "Morningstar"
+      },
+      {
+        "title": "BOXABL (BXBL) Launches Partnership Initiative to Advance Affordable Housing at Scale - Yahoo Finance",
+        "date": "Thu, 13 Aug 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVy1KeGpaQ2xWcHRtSjVPVmJRWFBqNEZXb0ZKU0Q4WUo5Q2lzQ3h5X3dTblhtVVBYMVFQUmhRNmgxY2xwaVNsck8wYjRiYjhkX2VaTS1qTDQyQkZSOHdTQ1d1M1ZmcW41cThPRU5ETkhXc0RYMzNublVzSGJMdDZlS3czVTdBVjFZejJ5NXY1Unh6ZXFZTTZjQUZ5d1c0UHFMVkhWN2J2cGc?oc=5",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Boxabl stock jumps 20% after Nasdaq market debut - Yahoo Finance",
+        "date": "Mon, 20 Jul 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaUFNZWtMcnQ2TkdfNU5wQm5kcTJxNE8yYl9OeTZsWDBCeFI1eEtDTDgwYzRoUFJ0OFhKOVNVa2F0VXJQQTg0M0drMTg2VlRqTmp1cUhWTjNxTnQ3QkM0c3NpOTFkREJxR2N0dTRXYnREeEpwdFo0SG1SdHJjam5KLTI5QVd5bFBIekRvNjJPU25lWDg1ZFNsRA?oc=5",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "BOXABL Inc. Launches Expansion of Project Development Capabilities, Connecting Manufacturing and Real Estate Development - Yahoo Finance",
+        "date": "Thu, 27 Aug 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdnFvdWpjam1OM296WmRoMDlVa01jWXV2T3lYdjlxM1UxVXdBelFabW5pNXd5OWZPc2tiVTU2ZWZNaVpUU204SWttekJONlpfbG5VWFZSVjQ4X0lTell3c0tqZzAyQ3p0eEpwemUtN2JpSDU2bXRSSS16VlV5S1ZfUGktSDg0Q25KRll6RERidmx0Y0tjYWF0ZDV4dTdzbEtu?oc=5",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Boxabl (BXBL) Lands Housing Deal As Valuation Questions Stay Front And Center - Yahoo Finance",
+        "date": "Sat, 05 Sep 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUGdkMGJYYlN0cEluOUUtWjNORWw0Q0x0WlhrZkhpcGMxcnBRN3dkMlVQUmtNNFNVaEZsNnlmejNpb3BQd3oxV20yUVJJZWV6b0dnNFB2R1VPUjRKQ3F3dVZBaG1pZXdfLWhQeEhHTGFXSXBmTEZVOGZHdThGeE5xa1k4a2RMUUJOUlJKTXRSdFRGcGpIVVdR?oc=5",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Here's Why We're Watching Boxabl's (NASDAQ:BXBL) Cash Burn Situation - Moomoo",
+        "date": "Tue, 21 Jul 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaWZtM3ZGUGVKZkVMMlkyckVzWHRKQ05hRnFrOWdOZG0tTDE5NlB5aTdpcEZrb05ZXzZmOFZLU1J2alRsQU0tRjVsYzZHbWlVck1LYVBOc1hrQ2l3X2haWUZCSU1vd1pOLWNGem15bzJvSmlBRW5fbm16SlR1b0hGMGQ1bWc1QW90T3pPZUE1Ti1DZw?oc=5",
+        "source": "Moomoo"
+      }
+    ],
+    "note": "Google News RSS is undocumented; links are Google redirect URLs. Open the original before citing."
+  },
+  "subdomains": {
+    "_error": "HTTP 404",
+    "status": 404,
+    "url": "https://crt.sh/?q=%25.boxabl.com&output=json",
+    "text": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0004\u0003M��n�0\f��}\n�;5�\u001e�H�\u0016\r�@��\u0003�@<\u0005�5%1 ޞ�h�.�l������B�\n>���f7�W\u000b\u0018�\u0011W�^\"��|m��\u0004�ڌTFN~ϊ\u001c\u001b�\u001a9əU1)`�\u0005���Z��0#\u001c :x�����?&u\u0019uJ;���+Ga\u000b��\u001a�&B�\\?�\u000b|\u000b�N\u0011\"�\u001b����M!\u0015cm�\u0018�Gg�I�=\u0000`\u0004�A���A�(f�d\n4DI��\u0017�'[�b��\u0000\u0000\u0000"
+  },
+  "wayback": {
+    "_error": "TimeoutError: The read operation timed out",
+    "url": "https://web.archive.org/cdx/search/cdx?url=boxabl.com&output=json&fl=timestamp,statuscode&filter=statuscode:200&limit=1"
+  }
+}

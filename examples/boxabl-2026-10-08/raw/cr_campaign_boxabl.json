@@ -1,0 +1,40 @@
+{
+  "id": "188c3e39-7850-4896-94df-e7a5be0cfec3",
+  "source": "https://contentrewards.com/discover/188c3e39-7850-4896-94df-e7a5be0cfec3",
+  "final_url": "https://contentrewards.com/c/campaigns/188c3e39-7850-4896-94df-e7a5be0cfec3",
+  "title": "Boxabl Official Clipping by Clip Farm",
+  "platform_rates": {
+    "youtube": {
+      "per_1k": "$0.50",
+      "min_payout": "$1.00",
+      "max_payout": "$500.00"
+    },
+    "tiktok": {
+      "per_1k": "$0.50",
+      "min_payout": "$1.00",
+      "max_payout": "$500.00"
+    },
+    "instagram": {
+      "per_1k": "$0.50",
+      "min_payout": "$1.00",
+      "max_payout": "$500.00"
+    },
+    "x": {
+      "per_1k": "$0.50",
+      "min_payout": "$1.00",
+      "max_payout": "$500.00"
+    }
+  },
+  "budget_spent": "$19,951",
+  "budget_remaining": "$65,049",
+  "budget_total_derived": 85000,
+  "content_requirements": [
+    "Share audience demographics",
+    "Top clippers",
+    "Clippers in this campaign earn $13.15 on average."
+  ],
+  "avg_earnings_line": "Clippers in this campaign earn $13.15 on average.",
+  "participants": "836",
+  "total_views": "33.9M",
+  "effective_cpm_derived": 0.59
+}

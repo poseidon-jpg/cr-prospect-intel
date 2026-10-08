@@ -1,0 +1,90 @@
+{
+  "query": {
+    "keywords": [
+      "oura",
+      "ring",
+      "sleep",
+      "health",
+      "wearable",
+      "fitness",
+      "wellness"
+    ],
+    "category": "Health & Wellness"
+  },
+  "matches": [
+    {
+      "id": "b69f900e-9fb8-4cce-813e-89b63e10e0da",
+      "organizer": "Reachify",
+      "title": "DreamMe [HEALTH]",
+      "category": "Health & Wellness",
+      "type": "cpm",
+      "rate_per_1k": "$1",
+      "platforms": [
+        "tiktok"
+      ],
+      "budget_total": 29500,
+      "budget_spent": 26666.56,
+      "creators": 65,
+      "submissions": 2386,
+      "requires_application": false,
+      "verified_org": false,
+      "org_handle": null,
+      "description": "Make TikTok slideshow content promoting the DreamMe GLP-1 tracking app. You'll create faceless AI-generated photo slideshows  no camera needed. Full guide + content vault with ready-to-use prompts provided. Easy to start, $1 per 1K views, $",
+      "url": "https://contentrewards.com/discover/b69f900e-9fb8-4cce-813e-89b63e10e0da",
+      "org_url": null,
+      "origin": "live /c/discover",
+      "match_score": 6
+    },
+    {
+      "id": "6f30470a-8537-4350-adcf-2d0eecd424df",
+      "organizer": "VitaClips",
+      "title": "Santa Cruz Medicinals Clipping",
+      "category": "Health & Wellness",
+      "type": "cpm",
+      "rate_per_1k": "$1",
+      "platforms": [
+        "instagram",
+        "tiktok",
+        "youtube"
+      ],
+      "budget_total": 9887,
+      "budget_spent": 5188,
+      "creators": 26,
+      "submissions": 148,
+      "requires_application": false,
+      "verified_org": false,
+      "org_handle": null,
+      "description": "Create & Post Viral Moments from Santa Cruz Medicinals New YT Content!",
+      "url": "https://contentrewards.com/discover/6f30470a-8537-4350-adcf-2d0eecd424df",
+      "org_url": null,
+      "origin": "live /c/discover",
+      "match_score": 6
+    },
+    {
+      "id": "1eac2183-9e1b-46b6-a15c-5cc5ad7e8348",
+      "organizer": "Clip Track",
+      "title": "Elo Cooking Slideshows Campaign",
+      "category": "Health & Wellness",
+      "type": "cpm",
+      "rate_per_1k": "$1",
+      "platforms": [
+        "instagram",
+        "tiktok"
+      ],
+      "budget_total": 8150,
+      "budget_spent": 7063.53,
+      "creators": 31,
+      "submissions": 350,
+      "requires_application": false,
+      "verified_org": false,
+      "org_handle": null,
+      "description": "ELO Food Coaching is your smart cooking companion that helps you decide what to cook using the ingredients you already have at home. ",
+      "url": "https://contentrewards.com/discover/1eac2183-9e1b-46b6-a15c-5cc5ad7e8348",
+      "org_url": null,
+      "origin": "live /c/discover",
+      "match_score": 6
+    }
+  ],
+  "live_feed_ok": true,
+  "next_step": "Open the top 2-3 campaign URLs (campaign subcommand) to pull brief + results, and the organizer's /c/{handle} page to see its full campaign history before naming an agency."
+}

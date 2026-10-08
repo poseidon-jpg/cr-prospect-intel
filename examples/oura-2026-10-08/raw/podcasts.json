@@ -1,0 +1,168 @@
+{
+  "source": "https://itunes.apple.com/search?media=podcast&term=Tom+Hale+Oura&limit=6&country=us",
+  "shows": [
+    {
+      "name": "The Logan Bartlett Show",
+      "artist": "by Redpoint Ventures",
+      "itunes_episode_count": 163,
+      "genre": "Technology",
+      "apple_url": "https://podcasts.apple.com/us/podcast/the-logan-bartlett-show/id1606770839?uo=4",
+      "feed": "https://rss2.flightcast.com/jlx9l0yn04wt3r710o051jtm.xml",
+      "name_match": false,
+      "feed_stats": {
+        "feed": "https://rss2.flightcast.com/jlx9l0yn04wt3r710o051jtm.xml",
+        "show": "The Logan Bartlett Show",
+        "author": "by Redpoint Ventures",
+        "episodes_in_feed": 163,
+        "latest": "2025-09-12",
+        "first": "2022-01-29",
+        "median_days_between_episodes": 7.0,
+        "total_hours_in_feed": 238.9,
+        "active": false,
+        "person_mentions": [
+          {
+            "title": "EP 129: Tom Hale (CEO, Oura) Shares Health Habits That Will Make You a Better Leader",
+            "date": "Fri, 24 Jan 2025 11:00:00 -0000",
+            "link": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "Moonshots with Peter Diamandis",
+      "artist": "PHD Ventures",
+      "itunes_episode_count": 307,
+      "genre": "Business",
+      "apple_url": "https://podcasts.apple.com/us/podcast/moonshots-with-peter-diamandis/id1648228034?uo=4",
+      "feed": "https://feeds.megaphone.fm/DVVTS2890392624",
+      "name_match": false,
+      "feed_stats": {
+        "feed": "https://feeds.megaphone.fm/DVVTS2890392624",
+        "show": "Moonshots with Peter Diamandis",
+        "author": "PHD Ventures",
+        "episodes_in_feed": 307,
+        "latest": "2026-10-07",
+        "first": "2022-10-04",
+        "median_days_between_episodes": 1.5,
+        "total_hours_in_feed": 428.8,
+        "active": true,
+        "person_mentions": [
+          {
+            "title": "A Data-Backed Approach To Perfect Sleep w/ Tom Hale (Oura CEO) & Dr. Rebecca Robbins | EP #73",
+            "date": "Thu, 16 Nov 2023 15:00:00 -0000",
+            "link": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "This Week in Startups",
+      "artist": "Jason Calacanis",
+      "itunes_episode_count": 1486,
+      "genre": "Technology",
+      "apple_url": "https://podcasts.apple.com/us/podcast/this-week-in-startups/id315114957?uo=4",
+      "feed": "https://feeds.megaphone.fm/LTANT7633840743",
+      "name_match": false,
+      "feed_stats": {
+        "feed": "https://feeds.megaphone.fm/LTANT7633840743",
+        "show": "This Week in Startups",
+        "author": "Jason Calacanis",
+        "episodes_in_feed": 400,
+        "latest": "2026-10-08",
+        "first": "2024-07-15",
+        "median_days_between_episodes": 2.0,
+        "total_hours_in_feed": 445.3,
+        "active": true,
+        "person_mentions": []
+      }
+    },
+    {
+      "name": "Stay Human, from the Artificiality Institute",
+      "artist": "Helen and Dave Edwards",
+      "itunes_episode_count": 112,
+      "genre": "Technology",
+      "apple_url": "https://podcasts.apple.com/us/podcast/stay-human-from-the-artificiality-institute/id1500655310?uo=4",
+      "feed": "https://anchor.fm/s/ed9117c8/podcast/rss",
+      "name_match": false,
+      "feed_stats": {
+        "feed": "https://anchor.fm/s/ed9117c8/podcast/rss",
+        "show": "Stay Human, from the Artificiality Institute",
+        "author": "Helen and Dave Edwards",
+        "episodes_in_feed": 112,
+        "latest": "2026-04-19",
+        "first": "2020-02-07",
+        "median_days_between_episodes": 15.0,
+        "total_hours_in_feed": 93.9,
+        "active": false,
+        "person_mentions": [
+          {
+            "title": "Tom Hale: Oura Ring and the New Data of Health",
+            "date": "Sun, 31 Jul 2022 11:20:00 GMT",
+            "link": "https://podcasters.spotify.com/pod/show/artificiality/episodes/Tom-Hale-Oura-Ring-and-the-New-Data-of-Health-e2c6ojt"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Stairway to CEO",
+      "artist": "Lee Greene",
+      "itunes_episode_count": 198,
+      "genre": "Entrepreneurship",
+      "apple_url": "https://podcasts.apple.com/us/podcast/stairway-to-ceo/id1436616295?uo=4",
+      "feed": "https://feeds.simplecast.com/w3dic1dp",
+      "name_match": false,
+      "feed_stats": {
+        "feed": "https://feeds.simplecast.com/w3dic1dp",
+        "show": "Stairway to CEO",
+        "author": "Lee Greene",
+        "episodes_in_feed": 198,
+        "latest": "2024-06-25",
+        "first": "2018-09-14",
+        "median_days_between_episodes": 7.0,
+        "total_hours_in_feed": 193.3,
+        "active": false,
+        "person_mentions": [
+          {
+            "title": "CEO Has a Nice Ring to It with Tom Hale, CEO of ŌURA",
+            "date": "Tue, 19 Sep 2023 11:00:00 +0000",
+            "link": "https://www.stairwaytoceo.com/episodes/ceo-has-a-nice-ring-to-it-with-tom-hale-ceo-of-oura"
+          }
+        ]
+      }
+    },
+    {
+      "name": "The Heart of Healthcare | A Digital Health Podcast",
+      "artist": "Massively Better Healthcare",
+      "itunes_episode_count": 243,
+      "genre": "Entrepreneurship",
+      "apple_url": "https://podcasts.apple.com/us/podcast/the-heart-of-healthcare-a-digital-health-podcast/id1575404727?uo=4",
+      "feed": "https://rss.art19.com/the-heart-of-healthcare",
+      "name_match": false,
+      "feed_stats": {
+        "feed": "https://rss.art19.com/the-heart-of-healthcare",
+        "show": "The Heart of Healthcare | A Digital Health Podcast",
+        "author": "Massively Better Healthcare",
+        "episodes_in_feed": 243,
+        "latest": "2026-10-05",
+        "first": "2021-07-19",
+        "median_days_between_episodes": 7.0,
+        "total_hours_in_feed": 147.0,
+        "active": true,
+        "person_mentions": [
+          {
+            "title": "Can Oura Become the Doctor in Your Pocket? | Oura CEO Tom Hale",
+            "date": "Mon, 10 Aug 2026 06:00:00 -0000",
+            "link": null
+          },
+          {
+            "title": "Can Wearables Move from Wellness to Medicine? | ŌURA CEO Tom Hale",
+            "date": "Mon, 22 Sep 2025 06:00:00 -0000",
+            "link": null
+          }
+        ]
+      }
+    }
+  ],
+  "total_hours_across_feeds": 1547.2,
+  "note": "Search matches by name; confirm each show is the prospect's own (host/author) vs a guest spot."
+}

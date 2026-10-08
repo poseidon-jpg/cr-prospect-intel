@@ -1,0 +1,123 @@
+{
+  "platform": "youtube",
+  "channel_id": "UCsH515PWKkHVkJKBs_geE9g",
+  "title": "BOXABL",
+  "subscribers_text": null,
+  "videos_text": null,
+  "source": "https://www.youtube.com/@Boxabl",
+  "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsH515PWKkHVkJKBs_geE9g",
+  "recent_uploads": [
+    {
+      "title": "BOXABL 2 Bed Casita: Factory to Finish",
+      "published": "2026-10-02T21:45:35+00:00",
+      "views": 5069,
+      "url": "https://www.youtube.com/shorts/jjnSHPBG9xA",
+      "is_short": true
+    },
+    {
+      "title": "Contractor: Why BOXABL Casita Saves You Money",
+      "published": "2026-09-28T20:45:27+00:00",
+      "views": 4317,
+      "url": "https://www.youtube.com/shorts/b7-bOQTOE7Y",
+      "is_short": true
+    },
+    {
+      "title": "BOXABL Casita: What Comes With It?",
+      "published": "2026-09-25T20:00:02+00:00",
+      "views": 3942,
+      "url": "https://www.youtube.com/shorts/DFau318-f5A",
+      "is_short": true
+    },
+    {
+      "title": "2 Bed BOXABL Casita Got Delivered Fast! 🤯",
+      "published": "2026-09-18T20:45:00+00:00",
+      "views": 10424,
+      "url": "https://www.youtube.com/shorts/g9bfMlwQOAs",
+      "is_short": true
+    },
+    {
+      "title": "BOXABL Casita Tour: Modular Home ADU",
+      "published": "2026-09-14T20:45:29+00:00",
+      "views": 50950,
+      "url": "https://www.youtube.com/shorts/RpLF6FB88UY",
+      "is_short": true
+    },
+    {
+      "title": "BOXABL vs. Stick-Built: What A Contractor Really Thinks",
+      "published": "2026-09-10T20:45:24+00:00",
+      "views": 17143,
+      "url": "https://www.youtube.com/watch?v=Q8811yVhPvo",
+      "is_short": false
+    },
+    {
+      "title": "This 2-Bedroom Prefab Home Feels Massive",
+      "published": "2026-09-09T20:45:06+00:00",
+      "views": 13392,
+      "url": "https://www.youtube.com/shorts/4q8dzYlFO6E",
+      "is_short": true
+    },
+    {
+      "title": "BOXABL Phase 2 Update",
+      "published": "2026-09-01T17:50:46+00:00",
+      "views": 46905,
+      "url": "https://www.youtube.com/watch?v=0C3TjH7RP8E",
+      "is_short": false
+    },
+    {
+      "title": "Why We Chose a 2-Bed Prefab Over Stick-Built",
+      "published": "2026-08-28T14:45:13+00:00",
+      "views": 7002,
+      "url": "https://www.youtube.com/shorts/o0n4pL5RFBE",
+      "is_short": true
+    },
+    {
+      "title": "2 Bed Casita Owner Review 😲",
+      "published": "2026-08-21T14:30:23+00:00",
+      "views": 7740,
+      "url": "https://www.youtube.com/shorts/pgb6Z9eEY2E",
+      "is_short": true
+    },
+    {
+      "title": "Bought a 2-Bed Casita Online... 🤯",
+      "published": "2026-08-17T14:45:21+00:00",
+      "views": 7835,
+      "url": "https://www.youtube.com/shorts/lUmRnzA3Rr8",
+      "is_short": true
+    },
+    {
+      "title": "Why We Chose a 2-Bed BOXABL: Install & Review",
+      "published": "2026-08-14T14:45:14+00:00",
+      "views": 53752,
+      "url": "https://www.youtube.com/watch?v=BmXVHO48jtw",
+      "is_short": false
+    },
+    {
+      "title": "2 Bed Casita Installed In 1 Day! 🤯",
+      "published": "2026-07-31T14:45:03+00:00",
+      "views": 33723,
+      "url": "https://www.youtube.com/shorts/cpLjqFLdouU",
+      "is_short": true
+    },
+    {
+      "title": "Why she REFUSED a stick-built home 🛑",
+      "published": "2026-07-23T20:30:21+00:00",
+      "views": 203233,
+      "url": "https://www.youtube.com/shorts/iDuRkAYL_A8",
+      "is_short": true
+    },
+    {
+      "title": "Unboxing a 2-Bed HOUSE! 📦🤯",
+      "published": "2026-07-20T15:00:23+00:00",
+      "views": 106923,
+      "url": "https://www.youtube.com/shorts/9brPihPQn-8",
+      "is_short": true
+    }
+  ],
+  "recent_views_median": 13392,
+  "upload_window": [
+    "2026-07-20",
+    "2026-10-02"
+  ],
+  "uploads_in_window": 15,
+  "caveats": "RSS = latest ~15 uploads. For full inventory use yt-dlp --flat-playlist (needs deno>=2.3 or node>=22) or YouTube Data API playlistItems (1 unit/50 videos)."
+}
