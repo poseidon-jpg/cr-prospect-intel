@@ -19,7 +19,18 @@
 3. In 3 months, what should a homeowner say about Boxabl that they don't say today?
 
 **Likely objections:** "Legal won't allow it" → a v2 brief that bans investment language lowers your risk · "The stock still fell" → clips are reach at ~$0.59/1K, so judge them on views and ADU leads
-**One campaign idea:** Brief v2 + proof clips. Keep $0.50/1K, ban investment talk, clip the contractor and owner-review videos, and spend the $65K remaining over 8 weeks. Scale trigger: more ADU inquiries.
-**Money anchor:** $65K at $0.50/1K ≈ 117M paid-for views after the 10% fee (distribution only)
+
+**Demo campaign (walk them through this on screen): "Boxabl Clipping v2: Sell the Home, Not the Stock"**
+- **Goal:** keep the ~34M-view machine running, but point it at Casita buyers instead of stock hype, so a newly public company isn't paying for clips that read like securities promotion.
+- **Footage (all on Boxabl's own YouTube):** "Why We Chose a 2-Bed BOXABL: Install & Review" (Aug 14, 53.8K views) · "Casita Tour: Modular Home ADU" (Sep 14, 51K) · "Phase 2 Update" (Sep 1, 46.9K) · "BOXABL vs. Stick-Built: What A Contractor Really Thinks" (Sep 10, 17.1K)
+- **What clippers post:** 15-45 second vertical clips, burned-in captions, hook in the first 2 seconds, on TikTok, Reels, Shorts and X. Example hooks:
+  - "This house showed up folded on a truck."
+  - "A contractor's honest take on a factory-built home."
+- **Rules:** must show the home or factory, tag @boxabl and add #ad. Never mention the stock, "BXBL", "invest" or share price. Any price says "from $60K before shipping, install and site work."
+- **Payout:** keep $0.50/1K, $1-$500 per clip. No new budget needed for the fix. **Remaining $65K** at the campaign's real $0.59/1K ≈ **110M more views**, run over 8 weeks (~$8K and ~14M views a week).
+- **Win =** by week 2: zero approved clips with investment language, 25M+ new views, and Casita inquiries from clip traffic up vs the prior 2 weeks (tracked with a link or code). **Then** fund the next $85K round. **Rewrite if** views drop under 10M a week after the brief change.
+- **Show on screen:** their own campaign page, "Boxabl Official Clipping" by Clip Farm. Point at **$19,968 spent / $65,032 remaining**, then pull up @boxablclips: "Invest Now!"
+- **Close question:** "If we fix the brief this week so no clip can be read as stock promotion, what number would make you fund the next $85K?"
+
 **Don't say:** anything about the stock price, or that clips will "move the stock"
 **Confirm on the call:** who the compliance owner is · whether ADU leads are tracked by source
